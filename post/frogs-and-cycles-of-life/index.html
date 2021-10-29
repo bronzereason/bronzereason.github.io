@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='This proved to be a study in efficiency: when to cycle and repeat through certain frames in order to extend the animation.
+'><title>Frogs and Cycles (of Life)</title>
+
+<link rel='canonical' href='https://www.jessemanschot.nl/post/frogs-and-cycles-of-life/'>
+
+<link rel="stylesheet" href="/scss/style.min.css?foo=211028">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet"> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://player.vimeo.com/api/player.js"></script><meta property='og:title' content='Frogs and Cycles (of Life)'>
+<meta property='og:description' content='This proved to be a study in efficiency: when to cycle and repeat through certain frames in order to extend the animation.
+'>
+<meta property='og:url' content='https://www.jessemanschot.nl/post/frogs-and-cycles-of-life/'>
+<meta property='og:site_name' content='Jesse Manschot'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='Animation' /><meta property='article:published_time' content='2021-05-25T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2021-05-25T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Frogs and Cycles (of Life)">
+<meta name="twitter:description" content="This proved to be a study in efficiency: when to cycle and repeat through certain frames in order to extend the animation.
+">
+    <link rel="shortcut icon" href="/img/favicon.png" />
+
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            localStorage.setItem(colorSchemeKey, "light");
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.body.dataset.scheme = 'dark';
+        } else {
+            document.body.dataset.scheme = 'light';
+        }
+    })();
+</script><div class="container main-container flex on-phone--column compact article-page with-toolbar">
+            <aside class="sidebar left-sidebar sticky">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header class="site-info">
+     
+        <h1 class="site-name"><a href="https://www.jessemanschot.nl/">Jesse Manschot</a></h1>
+        <h2 class="site-description">Animator&rsquo;s log</h2>
+    </header>
+
+    <ol class="menu" id="main-menu">
+        
+        
+        
+
+        <li >
+            <a href='/'>
+                
+                <span>Current</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/about/'>
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+
+        
+    </ol>
+</aside>
+
+            <main class="main full-width">
+    <div id="article-toolbar">
+        <a href="https://www.jessemanschot.nl/" class="back-home">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="15 6 9 12 15 18" />
+</svg>
+
+
+
+            <span>Back</span>
+        </a>
+    </div>
+
+    <article class="main-article">
+    <header class="article-header">
+		  
+		  <div class="article-image">
+	        <div style="padding:56.25% 0 0 0;position:relative;">
+						<iframe src="https://player.vimeo.com/video/581800741?h=170c27bc92&amp;loop=1&amp;color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;margin-top:-12px;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+					</div>
+		</div>
+			
+    
+
+    <div class="article-details">
+    
+
+    <h2 class="article-title">
+        <a href="/post/frogs-and-cycles-of-life/">Frogs and Cycles (of Life)</a>
+    </h2>
+
+    <footer class="article-time">
+      
+        <time class="article-time--published">May 25, 2021</time>
+    </footer></div>
+</header>
+
+    <section class="article-content">
+    <p>This proved to be a study in efficiency: when to cycle and repeat through certain frames in order to extend the animation.</p>
+<p>It was necessity since the entire scene was too long to fully plan ahead. I had a vague notion of how everything could interact once it would all come together, so I animated each object or character on its own and later on retimed the sequences where there was room for repetition - such as the croaking of the frog and the bending of the reeds.</p>
+<p>I wanted the waves to come from very far and for the viewer to notice them long before the frog has any clue. This meant that a wave had to take 220 frames to reach the shore. I decided to animate them on 3&rsquo;s and duplicate a single wave three times, to prevent myself from suffering too much. By slowly increasing its spacing on this perpective grid, a sense of distance is achieved:</p>
+<p><img src="/img/anims/ww_wave_ref.jpg" alt="Wave perspective ref"  /></p>
+<p>The frog was very small on paper (5mm) so I had to keep its shape simple. I looked at the frogs in this amazing sequence of <a class="link" href="https://www.imdb.com/title/tt2576852/"  target="_blank" rel="noopener"
+    >The Tale of the Princess Kaguya</a>:</p>
+<p><video src="/img/anims/ww_kaguya_ref.mp4" controls loop></video></p>
+<p>Upon closer inspection I noticed they animated them on 2&rsquo;s. One leap takes only 4 sheets of paper. Even though the movement is fast, animating them on ones isn&rsquo;t necessary at all. This again shows that spacing each frame correctly is far more effective than just drawing as many frames as one can.</p>
+<p><video src="/img/anims/ww_frog-layer.mp4" controls loop></video></p>
+<p>I&rsquo;ll leave the frogs for now.</p>
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/animation/">Animation</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-ND 4.0</span>
+    </section>
+    </footer>
+
+    
+</article>
+		
+		
+
+    <footer class="site-footer">
+   
+		 
+    <section class="powerby">
+      &copy; 
+      
+      2021
+			<b> ·  <a href="/index.xml">RSS</a> · </b>
+        Built with <b><a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a></b> <b> · </b>
+        Theme adapted from <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener">Stack</a></b> <br/>
+    </section>
+</footer>
+
+
+		
+
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g="crossorigin="anonymous"
+                defer="false"
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

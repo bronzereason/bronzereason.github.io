@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Jesse Manschot</title>
+        <link>https://www.jessemanschot.nl/</link>
+        <description>Recent content on Jesse Manschot</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Submerged</title>
+        <link>https://www.jessemanschot.nl/post/submerged/</link>
+        <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/submerged/</guid>
+        <description>&lt;p&gt;Another &lt;em&gt;Day for Night&lt;/em&gt; test; this time a bit more elaborate.&lt;/p&gt;
+&lt;p&gt;Recently while taking a walk I discovered a stream in the local forest. It was covered with duckweed, flowing downstream and the stream bed looked bottomless.
+Naturally I dipped my hand in the cool water. The experience fueled the idea for this animation.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/submerged_thumbnails_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Planning and thumbnails&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/submerged_thumbnails_web.jpg&#34;  /&gt;
+          &lt;p&gt;Planning and thumbnails
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/submerged_layout_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Layout&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/submerged_layout_web.jpg&#34;  /&gt;
+          &lt;p&gt;Layout
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;All was animated traditionally on paper and composited in &lt;a class=&#34;link&#34; href=&#34;https://opentoonz.github.io/e/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Opentoonz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The hand is based on my own, but I tried to make it a bit more animal-like while underwater.&lt;/p&gt;
+&lt;p&gt;The duckweeds are painstakingly drawn in around 60 frames and animated on two&amp;rsquo;s. I painted all the circles with pink watercolor. That took quite a while. Then I composited multiple instances of the same animation to suggest an unending flow.&lt;/p&gt;
+&lt;p&gt;Here is, again, the &amp;lsquo;uninverted&amp;rsquo;, original video:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/submerged_full_reinverted_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The inversion technique still intrigues me, but I must confess it&amp;rsquo;s not always the most logical or efficient. Especially since it&amp;rsquo;s so confusing for the brain while working on it, and trying to imagine the inverted colours. But I think it definitely shines when applied on watercolor layers, which are hard to darken otherwise.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Day for Night</title>
+        <link>https://www.jessemanschot.nl/post/day-for-night/</link>
+        <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/day-for-night/</guid>
+        <description>&lt;p&gt;Testing a &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Day_for_night&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Day for Night&lt;/a&gt; technique by drawing on paper with opposite colors and inverting it back in post.&lt;/p&gt;
+&lt;p&gt;A technique once commonly used during the previous century, whereby a scene was shot during the day, but made to look -with the help of various filters and lenses- as if it happens at night. Nowadays it is not so common anymore, but I did wonder whether it could be applied to traditional animation where the coloring is done directly on paper.&lt;/p&gt;
+&lt;p&gt;I figured I wanted to make a night scene with cars&#39; head- and tail lights passing through the frame, so I picked the inverted colors of yellow and red and used blue and teal pencils respectively. The background is also done with inversion in mind, by drawing only the light parts, in this case the moon and tree tops.&lt;/p&gt;
+&lt;p&gt;Here is the &amp;lsquo;uninverted&amp;rsquo;, original video:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/dayfornight_full_inverted_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;One could question the relevance of this technique nowadays, even in animation. This is obviously a non-issue in digital animation, and perhaps also in traditional cel animation, where the coloring is done &lt;em&gt;after&lt;/em&gt; scanning. Only in &amp;lsquo;niche&amp;rsquo; animation could this still be applicable. I do believe it provides for a unique atmosphere and perhaps also something to explore more.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Resting in the Mud</title>
+        <link>https://www.jessemanschot.nl/post/resting-in-the-mud/</link>
+        <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/resting-in-the-mud/</guid>
+        <description>&lt;p&gt;Another attempt at &amp;lsquo;mixed media&amp;rsquo; animation, combining analog charcoal drawings with digitally animated characters.&lt;/p&gt;
+&lt;p&gt;There is one shot in the film &lt;a class=&#34;link&#34; href=&#34;https://www.imdb.com/title/tt5827916/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;A Hidden Life&lt;/em&gt;&lt;/a&gt; (2019) that keeps popping up in my mind. What fascinates me about it is an animal many times larger optically than the human in the same composition, due to the wide-angle lenses used by cinematographer Jörg Widmer. The shot doesn&amp;rsquo;t even last more than two seconds, but it does leave a lasting impression (as does the whole movie by the way).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/mud_ref_web.jpg&#34; alt=&#34;A Hidden Life Reference&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;I decided to create an animation based on this style of composition. The characters and scenery were adopted, but the animation itself is not based on the actual movement in the film.&lt;/p&gt;
+&lt;p&gt;The fore- and background I made as seperate charcoal drawings, to be later composited behind and in front of the characters.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/mud_bg_scan_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/mud_bg_scan_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/mud_fg_scan_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/mud_fg_scan_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;The characters I then animated and colored on seperate layers in Krita:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/mud_breakdown_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;This is the first time I tried a 4K workflow. There are some quirks to this, but an upside is the ability to crop a certain part of the frame while retaining full HD quality. For example, here is a cropped animation of the woman in the background:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/mud_lady_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>The Values of Sky</title>
+        <link>https://www.jessemanschot.nl/post/the-values-of-sky/</link>
+        <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/the-values-of-sky/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/thumbs/charcoal_13sep_web_thumb.jpg" alt="Featured image of post The Values of Sky" /&gt;&lt;p&gt;Two more charcoal studies of the local sky.&lt;/p&gt;
+&lt;p&gt;There are most always clouds morphing into all kinds of shapes outside my window. Now that autumn is slowly starting, the tones and volume start to become more textured and layered. I thought it would be nice to try and render these differing shapes and streams in the sky.&lt;/p&gt;
+&lt;p&gt;The foreground silhouettes of the buildings and roofs are made beforehand by taping them off and rigourously filling them with charcoal. After I applied some fixative, the tape gets removed and sharp edges remain.&lt;/p&gt;
+&lt;p&gt;The paper is 125 g/m medium grain.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-09-13/charcoal_13sep_001_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-09-13//charcoal_13sep_001_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-09-13/charcoal_13sep_002_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-09-13//charcoal_13sep_002_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>The Values of Landscape</title>
+        <link>https://www.jessemanschot.nl/post/the-values-of-landscape/</link>
+        <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/the-values-of-landscape/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/thumbs/charcoal_12sep_web_thumb.jpg" alt="Featured image of post The Values of Landscape" /&gt;&lt;p&gt;Four landscape studies using charcoal to capture value and tone.&lt;/p&gt;
+&lt;p&gt;Brushes, erasers and tissues were utilized to blur edges and apply highlights in certain areas. Still messing around with the order in which to apply the various layers of charcoal. It behaves very much like watercolour, where unpredictable things can happen.&lt;/p&gt;
+&lt;p&gt;I used reference photos for all of them; the first two (landscape) are based on pictures from John Sexton. The last two (portrait) are based on pictures from my iPhone.&lt;/p&gt;
+&lt;p&gt;For the paper I grabbed 125 g/m medium grain.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-09-12/charcoal_12sep_001_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-09-12//charcoal_12sep_001_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-09-12/charcoal_12sep_002_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-09-12//charcoal_12sep_002_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-09-12/charcoal_12sep_003_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-09-12//charcoal_12sep_003_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-09-12/charcoal_12sep_004_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-09-12//charcoal_12sep_004_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>The Zen of Ice Skating</title>
+        <link>https://www.jessemanschot.nl/post/the-zen-of-ice-skating/</link>
+        <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/the-zen-of-ice-skating/</guid>
+        <description>&lt;p&gt;I went back to (mostly) analogue animating for this one. The character is drawn with a calligraphy pen and the background cycle is made of charcoal drawings. All was composited in Opentoonz and digitally colored in Krita.&lt;/p&gt;
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_sketches_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Concept doodling&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_sketches_web.jpg&#34;  /&gt;
+          &lt;p&gt;Concept doodling
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_ref_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Movement pattern&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_ref_web.jpg&#34;  /&gt;
+          &lt;p&gt;Movement pattern
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;The ice is a series of five charcoal drawings looping on two layers and blended together:&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal2-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg1_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg1_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal2-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal2-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg2_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg2_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal2-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal2-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg3_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig3&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg3_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal2-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal2-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg4_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig4&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg4_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal2-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal2-fig5&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg5_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig5&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bg5_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig4&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal2-fig6&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+				
+
+&lt;/div&gt;
+
+&lt;p&gt;Here is a little video showing the various phases in the workflow:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/iceskating_bts_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Combining 2D with 3D in Blender</title>
+        <link>https://www.jessemanschot.nl/post/combining-2d-with-3d-in-blender/</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/combining-2d-with-3d-in-blender/</guid>
+        <description>&lt;p&gt;I was curious to see if it would be possible to create a sense of depth with 2D animation, a medium in which the third dimension seemingly lacks. Something like a virtual diorama where flat elements are positioned deliberately to give an illusion of depth.&lt;/p&gt;
+&lt;p&gt;To start of I grabbed a character I had drawn earlier:&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/bosgeest_chardesign_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Character design&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/bosgeest_chardesign_web.jpg&#34;  /&gt;
+          &lt;p&gt;Character design
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;animation-from-rough-to-inked-and-painted&#34;&gt;Animation: from rough to inked and painted.&lt;/h3&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/bosgeest_anim_rough_isolated.mp4&#34; controls loop style=&#34;height:100px;background-color:white&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/bosgeest_anim_inked_isolated.mp4&#34; controls loop style=&#34;height:100px;background-color:white&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/bosgeest_anim_full_isolated.mp4&#34; controls loop style=&#34;height:100px;background-color:white&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;h3 id=&#34;compositing-in-blender&#34;&gt;Compositing in Blender&lt;/h3&gt;
+&lt;p&gt;The colored animation was exported from Krita and imported as an animated &amp;lsquo;Images as Planes&amp;rsquo;. This makes it possible to move a flat plane containing the animation with an alpha channel. I layed out a grid and added some volumetric lighting, which causes a fog like effect in the distance.&lt;/p&gt;
+&lt;p&gt;To accentuate the third dimension a light source is positioned diagonally behind the character, which causes skewed shadows.
+I also animated a spotlight following the movement of the glowing eyes and demonstrates a movement towards- and away from the camera.&lt;/p&gt;
+&lt;p&gt;The hard part was positioning the different elements within the scene to achieve a correct perspective. I didn&amp;rsquo;t use any reference or vanishing points when animating the character, so I got there through trial and error. I also couldn&amp;rsquo;t get the shadow cast by the light source to align properly with the character; if you look closely you can see the shadow not reaching all the way to the base of the feet.&lt;/p&gt;
+&lt;p&gt;I am aware of Blender&amp;rsquo;s Grease pencil functionalities, but find those to be still too limited artistically. Therefore I opted to explore this workflow which allows for the best of both worlds.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/bosgeest_bts_blender_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Secondary Action</title>
+        <link>https://www.jessemanschot.nl/post/secondary-action/</link>
+        <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/secondary-action/</guid>
+        <description>&lt;p&gt;An exercise in secondary action and weight. I also wanted to test a digital cel animation workflow with added shadows.&lt;/p&gt;
+&lt;p&gt;I started out with simple balls where the main body guides the rest:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/eggrabit_rough_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;I animated on two&amp;rsquo;s in the beginning, but the timing didn&amp;rsquo;t quite match the weight of the character, so I switched to ones; leaving me with more work, but a better result in the end I think.&lt;/p&gt;
+&lt;p&gt;While making the rough animation there wasn&amp;rsquo;t any thought out character yet. I thought of flipped buckets and vegetables, but ultimately settled on a rabit like doll carrying &lt;em&gt;something&lt;/em&gt; under its skin:&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/eggrabit_chardesign_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Character design&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/eggrabit_chardesign_web.jpg&#34;  /&gt;
+          &lt;p&gt;Character design
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;The secondary action principle also applied to the ears, arms and buttoned eye. I wanted the ears to have a stiffness at the base, so I tried to limit the amount of waviness there. The arms serve as a counter weight to the belly and I left them dangling under its head.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/eggrabit_rough_addons_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The inking was done in Krita. Same goes for the rough animation. I used pure red lines for the shadows which enabled me to fill those with the designated shadow color in the last stage.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/eggrabit_inked_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;As for the coloring I wanted to utilize Opentoonz, but failed because I was still struggling with its bucket tool. It seems to be too strict when finding edges. Have to do some more research on that. I stayed and colored in Krita instead.&lt;/p&gt;
+&lt;p&gt;Getting rid of the red shadow lines proved to be difficult as well. The lines were anti-aliased, which confused the paint bucket tool by not fully filling them up, leaving red spots all over the edges of the color planes. The only tool that helped was the &amp;lsquo;Similar Color Selection Tool&amp;rsquo;, which selected only the red color so I could paint over it.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/eggrabit_full_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Learned a lot again with this one! The hardest thing was keeping volume. In hindsight there are some notable volume shifts in the belly and the head towards the end. I&amp;rsquo;m going to keep an eye out for that.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Speed sketching on a Pen Display</title>
+        <link>https://www.jessemanschot.nl/post/speed-sketching-on-a-pen-display/</link>
+        <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/speed-sketching-on-a-pen-display/</guid>
+        <description>&lt;p&gt;Recently I acquired a pen display to draw and animate with. I decided to record my timed pose studies to gain an objective view of the way I draw. This is a compilation of the sketches I did of poses ranging between 1-, 2- and 4 minutes.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://krita.org/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Krita&lt;/a&gt; is the software in which I drew. I&amp;rsquo;m experimenting with different brushes, pencils and pens between the time ranges. I used &lt;a class=&#34;link&#34; href=&#34;https://obsproject.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;OBS Studio&lt;/a&gt; to record both the pen display and the secondary screen, on which I used a timed slideshow of models from &lt;a class=&#34;link&#34; href=&#34;https://proko.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Proko&lt;/a&gt;. Not quite like drawing from a real life model, but it&amp;rsquo;s as close as I can get!&lt;/p&gt;
+&lt;p&gt;The music is by &lt;a class=&#34;link&#34; href=&#34;https://plaid.warp.net/release/72587-plaid-heavens-door-the-soundtrack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Plaid&lt;/a&gt; (&amp;ldquo;Tokyo Drive&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;See the gallery below for all the sketches created in this video.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_01.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_01.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_02.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_02.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_03.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_03.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_04.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_04.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig5&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_05.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig5&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_05.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig6&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_06.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig6&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_06.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig7&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig7&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_07.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig7&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_07.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig8&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig8&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_08.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig8&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_08.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig7&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig9&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig9&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_09.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig9&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_09.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig8&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig10&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig10&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_10.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig10&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_10.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig9&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig11&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig11&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_11.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig11&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_11.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig10&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig12&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig12&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_12.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig12&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_12.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig11&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig13&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig13&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_13.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig13&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_13.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig12&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig14&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig14&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-08-06/poses_6aug2021_14.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig14&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-08-06//poses_6aug2021_14.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig13&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>11 Second Club: July entry</title>
+        <link>https://www.jessemanschot.nl/post/11-second-club-july-entry/</link>
+        <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/11-second-club-july-entry/</guid>
+        <description>&lt;p&gt;My entry for the &lt;a class=&#34;link&#34; href=&#34;https://www.11secondclub.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;11 Second Club&lt;/a&gt; july edition. It is the first time I&amp;rsquo;m entering this competition and also my first time animating a more rounded (human) character.&lt;/p&gt;
+&lt;p&gt;I was a bit late to the game, so unfortunately I couldn&amp;rsquo;t finish the facial animation.&lt;/p&gt;
+&lt;p&gt;The audio to animate to this month was taken from &lt;a class=&#34;link&#34; href=&#34;https://www.imdb.com/title/tt0783233/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Atonement&lt;/a&gt; (2007). The hard part was coming up with the overall idea; the character in the film recites a letter he wrote, making it unclear where we are diegetically from our point of view. We could be in the same room as him, or in his mind.&lt;/p&gt;
+&lt;p&gt;Because of this ambiguity I opted for poetic realism. I thought of a soldier in despair of war, seemingly giving up and returning to his memories of promise and joy. There are two contrasting backgrounds; a bleak and dark warzone/beach and a peaceful park.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_idea_thumbnails.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Idea sketches&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_idea_thumbnails.jpg&#34;  /&gt;
+          &lt;p&gt;Idea sketches
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_jmanschot_bg1.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Background 1&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_jmanschot_bg1.jpg&#34;  /&gt;
+          &lt;p&gt;Background 1
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_jmanschot_bg2.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Background 2&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_jmanschot_bg2.jpg&#34;  /&gt;
+          &lt;p&gt;Background 2
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_jmanschot_chardesign.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Character sketches&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjuly_jmanschot_chardesign.jpg&#34;  /&gt;
+          &lt;p&gt;Character sketches
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;I tried making the character equally contrasting as well by behaving distinctively in the seperate moments of his life: wading indifferently in the water towards his demise, and &amp;lsquo;swaggering on the promise of life&amp;rsquo; towards possibility. The first part is animated on 3&amp;rsquo;s and the second part on 2&amp;rsquo;s to underline this.&lt;/p&gt;
+&lt;p&gt;Here is the animation isolated from the final composite:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/11sec_july_jessemanschot_isolated_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;I might add facial animation later on, but all in all I&amp;rsquo;m quite happy with it and excited to see the other entries.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>The Animation Workshop: Personal Scene</title>
+        <link>https://www.jessemanschot.nl/post/the-animation-workshop-personal-scene/</link>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/the-animation-workshop-personal-scene/</guid>
+        <description>&lt;p&gt;During a summer school at &lt;a class=&#34;link&#34; href=&#34;https://animationworkshop.via.dk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Animation Workshop&lt;/a&gt; we had to make our own scene based on a simple prompt: &amp;ldquo;What was that?&amp;rdquo; All staging, thumbnailing, animating and background creation was done in TVPaint.&lt;/p&gt;
+&lt;p&gt;Really enjoyed making this piece.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_thumbnails1_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Thumbnails 1&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_thumbnails1_web.jpg&#34;  /&gt;
+          &lt;p&gt;Thumbnails 1
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_thumbnails2_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Thumbnails 2&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_thumbnails2_web.jpg&#34;  /&gt;
+          &lt;p&gt;Thumbnails 2
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_thumbnails3_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Thumbnails 3&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_thumbnails3_web.jpg&#34;  /&gt;
+          &lt;p&gt;Thumbnails 3
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+	
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_staging_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Staging&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/taw-project_jesse_staging_web.jpg&#34;  /&gt;
+          &lt;p&gt;Staging
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>The Animation Workshop: Animation Exercises</title>
+        <link>https://www.jessemanschot.nl/post/the-animation-workshop-animation-exercises/</link>
+        <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/the-animation-workshop-animation-exercises/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/taw_anims_thumb.jpg" alt="Featured image of post The Animation Workshop: Animation Exercises" /&gt;&lt;p&gt;I visited the animation summer school at &lt;a class=&#34;link&#34; href=&#34;https://animationworkshop.via.dk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Animation Workshop&lt;/a&gt; in Viborg, Denmark this year. We got to learn a lot about the fundamentals and principles of animating and drawing. This was also my first (proper) introduction to using TVPaint and a Wacom tablet to animate digitally.&lt;/p&gt;
+&lt;p&gt;Here are some of the exercises I made to get a grasp on weight, volume, timing, spacing etcetera.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bouncing ball on the spot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/taw_bbspot_jesse_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bouncing ball forward&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/taw_bbnormal_jesse_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cannon ball&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/taw_bbcannon_jesse_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bouncing ball with tail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/taw_bbtail_jesse_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waving hair&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/taw_hair_jesse_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Morphing and looping&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/taw_morphloop_jesse_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;For the personal scene I made during the course, please see the dedicated &lt;a class=&#34;link&#34; href=&#34;https://www.jessemanschot.nl/post/the-animation-workshop-personal-scene&#34; &gt;blog post&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>The Animation Workshop: Gesture &amp; Croquis</title>
+        <link>https://www.jessemanschot.nl/post/the-animation-workshop-gesture-croquis/</link>
+        <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/the-animation-workshop-gesture-croquis/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/poses/taw_croquisgesture_thumb.jpg" alt="Featured image of post The Animation Workshop: Gesture &amp; Croquis" /&gt;&lt;p&gt;During the animation summer school at &lt;a class=&#34;link&#34; href=&#34;https://animationworkshop.via.dk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Animation Workshop&lt;/a&gt; I attended gesture and croquis classes. They both ranged between 1 minute, 2 minutes and 4 minutes per pose.&lt;/p&gt;
+&lt;h2 id=&#34;gesture-drawing&#34;&gt;Gesture drawing&lt;/h2&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture/gesture_7jul2021_web_01.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture//gesture_7jul2021_web_01.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture/gesture_7jul2021_web_02.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture//gesture_7jul2021_web_02.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture/gesture_7jul2021_web_03.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture//gesture_7jul2021_web_03.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture/gesture_7jul2021_web_04.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/gesture//gesture_7jul2021_web_04.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;croquis&#34;&gt;Croquis&lt;/h2&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal2-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis/croquis_8jul2021_web_01.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis//croquis_8jul2021_web_01.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal2-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal2-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis/croquis_8jul2021_web_02.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis//croquis_8jul2021_web_02.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal2-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis/croquis_8jul2021_web_03.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis//croquis_8jul2021_web_03.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal2-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis/croquis_8jul2021_web_04.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal2-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-08/croquis//croquis_8jul2021_web_04.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal2-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Three colored poses</title>
+        <link>https://www.jessemanschot.nl/post/three-colored-poses/</link>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/three-colored-poses/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/thumbs/poses_2jul2021_thumb.jpg" alt="Featured image of post Three colored poses" /&gt;&lt;p&gt;Three scribbly poses made with bold marker and colored pencils.&lt;/p&gt;
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-02/poses_2jul2021_01.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-02//poses_2jul2021_01.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-02/poses_2jul2021_02.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-02//poses_2jul2021_02.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-07-02/poses_2jul2021_03.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-07-02//poses_2jul2021_03.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Struggling with Feet - part 1</title>
+        <link>https://www.jessemanschot.nl/post/struggling-with-feet-part-1/</link>
+        <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/struggling-with-feet-part-1/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/thumbs/feet_29jun21_thumb.jpg" alt="Featured image of post Struggling with Feet - part 1" /&gt;&lt;p&gt;Trying to tackle the drawing of feet. 3B pencil on paper.&lt;/p&gt;
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-06-29/feet_29jun21_1.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-06-29//feet_29jun21_1.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-06-29/feet_29jun21_2.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-06-29//feet_29jun21_2.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-06-29/feet_29jun21_3.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-06-29//feet_29jun21_3.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Lifting a rock (in pastel)</title>
+        <link>https://www.jessemanschot.nl/post/lifting-a-rock-in-pastel/</link>
+        <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/lifting-a-rock-in-pastel/</guid>
+        <description>&lt;p&gt;A return to the basic animation principles: a character lifting something heavy. I wanted an element of slapstick in the scene, hence the hat.&lt;/p&gt;
+&lt;p&gt;The material I used is black pastel which I wanted to try out for animation. However the regret eventually came when it proved to create double the amount of work. It wasn&amp;rsquo;t suited for this kind of animation. In the end I opted for a chalky look by using the invertion trick.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Calligraphy poses</title>
+        <link>https://www.jessemanschot.nl/post/calligraphy-poses/</link>
+        <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/calligraphy-poses/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/thumbs/call_6jun21_selection_inv.jpg" alt="Featured image of post Calligraphy poses" /&gt;&lt;p&gt;An attempt at using a calligraphy brush and watercolour paint to capture the human form. I applied the brush on A3 sized smooth watercolouring paper. The poses were between 2-3 minutes.&lt;/p&gt;
+&lt;p&gt;The colours are inverted for clarity (but also because the amber looks really cool). See below for the originals in blue.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_01.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_01.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_01_inv.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_01_inv.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_02.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_02.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_02_inv.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_02_inv.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig5&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_03.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig5&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_03.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig6&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_03_inv.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig6&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_03_inv.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig7&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig7&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_04.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig7&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_04.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig8&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig8&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_04_inv.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig8&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_04_inv.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig7&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig9&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig9&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_05.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig9&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_05.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig8&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig10&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig10&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-06-06/call_6jun21_05_inv.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig10&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-06-06//call_6jun21_05_inv.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig9&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Stuck in the mud</title>
+        <link>https://www.jessemanschot.nl/post/stuck-in-the-mud/</link>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/stuck-in-the-mud/</guid>
+        <description>&lt;p&gt;Technically a walkcycle, but the character takes quite a few frames to even take one step. I wanted to get to a sense of the forces that occur when a character wants to move forward, but is held back by external circumstances. He could be stuck in mud or something else that&amp;rsquo;s sticky.&lt;/p&gt;
+&lt;p&gt;I didn&amp;rsquo;t use much reference this time, but I did look at this short piece in Spirited Away:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/stuck_sa_ref.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;It shows how to animate when there is resistance; a foot getting freed and moving fast and sudden because of the force that&amp;rsquo;s being applied.&lt;/p&gt;
+&lt;p&gt;The decision for using a style marker was totally random. I was just curious how it would look animated. The marker was already at its last ink, so that&amp;rsquo;s why the the drawings get thinner and more abstracted once it reaches the end.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Frogs and Cycles (of Life)</title>
+        <link>https://www.jessemanschot.nl/post/frogs-and-cycles-of-life/</link>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/frogs-and-cycles-of-life/</guid>
+        <description>&lt;p&gt;This proved to be a study in efficiency: when to cycle and repeat through certain frames in order to extend the animation.&lt;/p&gt;
+&lt;p&gt;It was necessity since the entire scene was too long to fully plan ahead. I had a vague notion of how everything could interact once it would all come together, so I animated each object or character on its own and later on retimed the sequences where there was room for repetition - such as the croaking of the frog and the bending of the reeds.&lt;/p&gt;
+&lt;p&gt;I wanted the waves to come from very far and for the viewer to notice them long before the frog has any clue. This meant that a wave had to take 220 frames to reach the shore. I decided to animate them on 3&amp;rsquo;s and duplicate a single wave three times, to prevent myself from suffering too much. By slowly increasing its spacing on this perpective grid, a sense of distance is achieved:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/ww_wave_ref.jpg&#34; alt=&#34;Wave perspective ref&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;The frog was very small on paper (5mm) so I had to keep its shape simple. I looked at the frogs in this amazing sequence of &lt;a class=&#34;link&#34; href=&#34;https://www.imdb.com/title/tt2576852/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Tale of the Princess Kaguya&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/ww_kaguya_ref.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Upon closer inspection I noticed they animated them on 2&amp;rsquo;s. One leap takes only 4 sheets of paper. Even though the movement is fast, animating them on ones isn&amp;rsquo;t necessary at all. This again shows that spacing each frame correctly is far more effective than just drawing as many frames as one can.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/ww_frog-layer.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll leave the frogs for now.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Cel animation and frogs</title>
+        <link>https://www.jessemanschot.nl/post/cel-animation-and-frogs/</link>
+        <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/cel-animation-and-frogs/</guid>
+        <description>&lt;p&gt;In this exercise I wanted to try the (digital) &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Cel&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;cel animation&lt;/a&gt; technique.&lt;/p&gt;
+&lt;p&gt;First I began with the background:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/frog_bg1_web.jpg&#34; alt=&#34;Charcoal 1&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;I thought what could take place in this kind of environment, so obviously a frog running from lightning seemed logical.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/frog_sketchlayer_web.m4v&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The animation can be better, but the original intention of this exercise was getting a feel for the cel animation workflow.&lt;/p&gt;
+&lt;p&gt;After this first pass I traced a new layer on paper with all the lines intersecting each other. &lt;a class=&#34;link&#34; href=&#34;https://opentoonz.github.io/e/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Opentoonz&lt;/a&gt;&#39; supplementary scan tool &amp;lsquo;GTS&amp;rsquo; has a trace feature which automatically recognizes the lines and converts them to rasterized lines, which makes filling in the colors a lot easier.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/frog_tracedlayer_web.m4v&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The paint bucket tool was used to fill in all the &amp;lsquo;cells&amp;rsquo;:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/frog_coloredlayer_web.m4v&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;In the end I opted for black and white, since the colors didn&amp;rsquo;t blend too well with the rest of the scene. I will also try adding shadow cells next time.&lt;/p&gt;
+&lt;p&gt;Opentoonz has a helpful node system which I used for final compositing - matting out certain pieces and adding little effects such as noise and inverting the lightning.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/frog_ot_nodes.jpg&#34; alt=&#34;OT Nodes&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for reading. Hope this may help someone!&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Pose Studies</title>
+        <link>https://www.jessemanschot.nl/post/pose-studies/</link>
+        <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/pose-studies/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/thumbs/poses_10may2021_thumb.jpg" alt="Featured image of post Pose Studies" /&gt;&lt;p&gt;Pose drawings varying between 2 and 5 minutes. Conté and watercolour on paper.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+	
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-05-10/poses_10may2021_01.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-05-10//poses_10may2021_01.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-05-10/poses_10may2021_02.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-05-10//poses_10may2021_02.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-05-10/poses_10may2021_03.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-05-10//poses_10may2021_03.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-05-10/poses_10may2021_04.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-05-10//poses_10may2021_04.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig5&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-05-10/poses_10may2021_05.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig5&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-05-10//poses_10may2021_05.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig6&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-05-10/poses_10may2021_06.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig6&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-05-10//poses_10may2021_06.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig7&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig7&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/poses/2021-05-10/poses_10may2021_07.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig7&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/poses/2021-05-10//poses_10may2021_07.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Throwing a Boomerang</title>
+        <link>https://www.jessemanschot.nl/post/throwing-a-boomerang/</link>
+        <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/throwing-a-boomerang/</guid>
+        <description>&lt;p&gt;This time I tried my hand at motion blurring, overlapping action, cutting to a new shot and compositing on backgrounds.&lt;/p&gt;
+&lt;p&gt;For inspiration I looked at &lt;a class=&#34;link&#34; href=&#34;https://animationcriticalperspectives.wordpress.com/2017/10/11/week-6-the-mediums-motions-and-materialities-of-animation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ohira Shinya&amp;rsquo;s work&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For preparation I studied a world champion &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=pdWcl6dt2h0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;boomerang thrower&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_ref1.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The first pass of animation contains a handful of extremes to determine the timing:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_timingtest_web.m4v&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Final pass:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_raw_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;For animating the boomerang I turned to the &lt;a class=&#34;link&#34; href=&#34;https://www.jessemanschot.nl/post/ball-in-perspective&#34; &gt;perspective principle&lt;/a&gt; from Richard Williams&#39; book.&lt;/p&gt;
+&lt;p&gt;After I made the final pass I thought of leaving it as is, but decided to give it a bit more depth. I considered coloring the character with charcoal on paper, however I was hesitant of the mess it would give so I painted digitally using Krita:&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_krita.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_krita.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The backgrounds I did make with charcoal:&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_bg1_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_bg1_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_bg2_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_bg2_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;Opentoonz was used to composite all the layers together and lift the camera:&lt;/p&gt;
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_opentoonz.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boomerang_opentoonz.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;</description>
+        </item>
+        <item>
+        <title>Watercolour Weekend</title>
+        <link>https://www.jessemanschot.nl/post/watercolour-weekend/</link>
+        <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/watercolour-weekend/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/thumbs/wc_2mei2021_thumb.jpg" alt="Featured image of post Watercolour Weekend" /&gt;&lt;p&gt;Some watercolour sketches of mental imagery made during the weekend.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-05-02/wc_2mei2021_01_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-05-02//wc_2mei2021_01_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-05-02/wc_2mei2021_02_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-05-02//wc_2mei2021_02_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-05-02/wc_2mei2021_03_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-05-02//wc_2mei2021_03_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-05-02/wc_2mei2021_04_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-05-02//wc_2mei2021_04_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig5&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-05-02/wc_2mei2021_05_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig5&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-05-02//wc_2mei2021_05_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig6&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2021-05-02/wc_2mei2021_06_web.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig6&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/drawings/2021-05-02//wc_2mei2021_06_web.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Struggling with Hands - part 2</title>
+        <link>https://www.jessemanschot.nl/post/struggling-with-hands-part-2/</link>
+        <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/struggling-with-hands-part-2/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/hands_30apr2021_thumb.jpg" alt="Featured image of post Struggling with Hands - part 2" /&gt;&lt;p&gt;More studies of my left hand in various poses. Also tried drawing with a Wacom (last 2).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_30apr2021_01.jpg&#34; alt=&#34;Hands 30apr2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_30apr2021_02.jpg&#34; alt=&#34;Hands 30apr2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_30apr2021_03.jpg&#34; alt=&#34;Hands 30apr2021 03&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_30apr2021_dig1.jpg&#34; alt=&#34;Hands 30apr2021 04&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_30apr2021_dig3.jpg&#34; alt=&#34;Hands 30apr2021 05&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Struggling with Hands - part 1</title>
+        <link>https://www.jessemanschot.nl/post/struggling-with-hands-part-1/</link>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/struggling-with-hands-part-1/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/hands_27apr2021_thumb.jpg" alt="Featured image of post Struggling with Hands - part 1" /&gt;&lt;p&gt;Trying to tackle the rendering of hands by studying and drawing my own left hand.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_27apr2021_01_web.jpg&#34; alt=&#34;Hands 27apr2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_27apr2021_02_web.jpg&#34; alt=&#34;Hands 27apr2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_27apr2021_03_web.jpg&#34; alt=&#34;Hands 27apr2021 03&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_27apr2021_04_web.jpg&#34; alt=&#34;Hands 27apr2021 04&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/hands_27apr2021_05_web.jpg&#34; alt=&#34;Hands 27apr2021 05&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Struggling with Heads - part 3</title>
+        <link>https://www.jessemanschot.nl/post/struggling-with-heads-part-3/</link>
+        <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/struggling-with-heads-part-3/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/heads_26apr2021_thumb.jpg" alt="Featured image of post Struggling with Heads - part 3" /&gt;&lt;p&gt;Structuring the head in simple planes to get a better sense of how it manifests itself in 3D space. The more complicated the planes the closer it comes to an actual human face, like adding more polygons to a 3D-model.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_26apr2021_01.jpg&#34; alt=&#34;Heads 26apr2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_26apr2021_02.jpg&#34; alt=&#34;Heads 26apr2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_26apr2021_03.jpg&#34; alt=&#34;Heads 26apr2021 03&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_26apr2021_04.jpg&#34; alt=&#34;Heads 26apr2021 04&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Struggling with Heads - part 2</title>
+        <link>https://www.jessemanschot.nl/post/struggling-with-heads-part-2/</link>
+        <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/struggling-with-heads-part-2/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/heads_19apr2021_thumb.jpg" alt="Featured image of post Struggling with Heads - part 2" /&gt;&lt;p&gt;Diving into the basic bone structure of the head and figuring out how everything fits. Heads are weird.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_19apr2021_01.jpg&#34; alt=&#34;Heads 19apr2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_19apr2021_02.jpg&#34; alt=&#34;Heads 19apr2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_19apr2021_03.jpg&#34; alt=&#34;Heads 19apr2021 03&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_19apr2021_04.jpg&#34; alt=&#34;Heads 19apr2021 04&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_19apr2021_05.jpg&#34; alt=&#34;Heads 19apr2021 05&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_19apr2021_06.jpg&#34; alt=&#34;Heads 19apr2021 06&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_19apr2021_07.jpg&#34; alt=&#34;Heads 19apr2021 07&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Struggling with Heads - part 1</title>
+        <link>https://www.jessemanschot.nl/post/struggling-with-heads-part-1/</link>
+        <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/struggling-with-heads-part-1/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/heads_18apr2021_thumb.jpg" alt="Featured image of post Struggling with Heads - part 1" /&gt;&lt;p&gt;My first foray into understanding and drawing basic heads. To be continued&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_18apr2021_01.jpg&#34; alt=&#34;Heads 18apr2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_18apr2021_02.jpg&#34; alt=&#34;Heads 18apr2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_18apr2021_03.jpg&#34; alt=&#34;Heads 18apr2021 03&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_18apr2021_04.jpg&#34; alt=&#34;Heads 18apr2021 04&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_18apr2021_05.jpg&#34; alt=&#34;Heads 18apr2021 05&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/heads_18apr2021_06.jpg&#34; alt=&#34;Heads 18apr2021 06&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Even more figure drawing Stickybones</title>
+        <link>https://www.jessemanschot.nl/post/even-more-figure-drawing-stickybones/</link>
+        <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/even-more-figure-drawing-stickybones/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/poses/poses_15apr2021_06_web.jpg" alt="Featured image of post Even more figure drawing Stickybones" /&gt;&lt;p&gt;More figure drawings of a Stickybones mannequin in various poses and angles. Originally blue pencil on white paper, but inverted to examine linework.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_15apr2021_01_web.jpg&#34; alt=&#34;Poses 15apr2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_15apr2021_02_web.jpg&#34; alt=&#34;Poses 15apr2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_15apr2021_03_web.jpg&#34; alt=&#34;Poses 15apr2021 03&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_15apr2021_04_web.jpg&#34; alt=&#34;Poses 15apr2021 04&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_15apr2021_05_web.jpg&#34; alt=&#34;Poses 15apr2021 05&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_15apr2021_06_web.jpg&#34; alt=&#34;Poses 15apr2021 06&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Figure drawing Stickybones</title>
+        <link>https://www.jessemanschot.nl/post/figure-drawing-stickybones/</link>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/figure-drawing-stickybones/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/poses/poses_9apr2021_thumb.jpg" alt="Featured image of post Figure drawing Stickybones" /&gt;&lt;p&gt;Figure drawings of a Stickybones mannequin in various poses and angles.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_9apr2021_01_pic.jpg&#34; alt=&#34;Poses 09apr2021 01 pic&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_9apr2021_01_web.jpg&#34; alt=&#34;Poses 09apr2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_9apr2021_02_pic.jpg&#34; alt=&#34;Poses 09apr2021 02 pic&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_9apr2021_02_web.jpg&#34; alt=&#34;Poses 09apr2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_9apr2021_03_pic.jpg&#34; alt=&#34;Poses 09apr2021 03 pic&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_9apr2021_03_web.jpg&#34; alt=&#34;Poses 09apr2021 03&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Weight &amp; Hard Accent</title>
+        <link>https://www.jessemanschot.nl/post/weight-hard-accent/</link>
+        <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/weight-hard-accent/</guid>
+        <description>&lt;p&gt;Trying to give weight (or no weight) to a feather and also an attempt at animating anticipations and &amp;lsquo;hard accents&amp;rsquo;: the arm anticipates and moves abruptly to catch the feather.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Walkcycle in Perspective</title>
+        <link>https://www.jessemanschot.nl/post/walkcycle-in-perspective/</link>
+        <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/walkcycle-in-perspective/</guid>
+        <description>&lt;p&gt;An exercise in animating a walkcycle on the third &lt;em&gt;Z&lt;/em&gt;-dimension. Though animated on 3&amp;rsquo;s, it&amp;rsquo;s interesting to see that the further away the character gets, the less the animation seems to be &amp;lsquo;limited&amp;rsquo; or jaggy because of the increased overlap in the spacing between the individual frames. I suppose one could get away with animating characters or objects in the distance on 3&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;I used the technique from Richard Williams&#39; book on where to place the key positions:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/wc_persp_layout.jpg&#34; alt=&#34;Layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>2 Minute Poses with pen</title>
+        <link>https://www.jessemanschot.nl/post/2-minute-poses-with-pen/</link>
+        <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/2-minute-poses-with-pen/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/poses/poses_25mar2021_04.jpg" alt="Featured image of post 2 Minute Poses with pen" /&gt;&lt;p&gt;Figure drawings of 2 minute poses with pen on paper. The shading is added in a later stage with conté.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_25mar2021_01.jpg&#34; alt=&#34;Poses 25mar2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_25mar2021_02.jpg&#34; alt=&#34;Poses 25mar2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_25mar2021_03.jpg&#34; alt=&#34;Poses 25mar2021 03&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_25mar2021_04.jpg&#34; alt=&#34;Poses 25mar2021 04&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_25mar2021_05.jpg&#34; alt=&#34;Poses 25mar2021 05&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>5 Minute Poses</title>
+        <link>https://www.jessemanschot.nl/post/5-minute-poses/</link>
+        <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/5-minute-poses/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/poses/poses_20mar2021_01.jpg" alt="Featured image of post 5 Minute Poses" /&gt;&lt;p&gt;Figure drawings of 5 minute poses made with conté on paper. Trying to add more mass and shading this time.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_20mar2021_01.jpg&#34; alt=&#34;Poses 20mar2021 01&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_20mar2021_02.jpg&#34; alt=&#34;Poses 20mar2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_20mar2021_03.jpg&#34; alt=&#34;Poses 20mar2021 03&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>More pose studies</title>
+        <link>https://www.jessemanschot.nl/post/more-pose-studies/</link>
+        <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/more-pose-studies/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/poses/poses_16mar2021_01.jpg" alt="Featured image of post More pose studies" /&gt;&lt;p&gt;Figure drawings of 1 minute poses. Conté on paper.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_16mar2021_01.jpg&#34; alt=&#34;Poses 16mar2021 01&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_16mar2021_02.jpg&#34; alt=&#34;Poses 16mar2021 02&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;Robo Bean&amp;rsquo; studies of twisting torso&amp;rsquo;s:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_16mar2021_03.jpg&#34; alt=&#34;Poses 16mar2021 03&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/poses_16mar2021_04.jpg&#34; alt=&#34;Poses 16mar2021 04&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>16 frame walk &#43; overlapping action</title>
+        <link>https://www.jessemanschot.nl/post/16-frame-walk-overlapping-action/</link>
+        <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/16-frame-walk-overlapping-action/</guid>
+        <description>&lt;p&gt;In this animation I tried to combine multiple exercises:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 subjects reacting to each other&lt;/li&gt;
+&lt;li&gt;A 16-frame &amp;ldquo;leisurely&amp;rdquo; walkcycle on 2&amp;rsquo;s and bringing it to a halt&lt;/li&gt;
+&lt;li&gt;Animating overlapping action; in this case, the opened box lids drag behind its core movement. Also, the head of the figure extends slightly more after its back has arched backwards.&lt;/li&gt;
+&lt;li&gt;Small expression animations, which added up to a total of 4 animation layers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Initial layout:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/wc04_layout.jpg&#34; alt=&#34;Layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Headturn</title>
+        <link>https://www.jessemanschot.nl/post/headturn/</link>
+        <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/headturn/</guid>
+        <description>&lt;p&gt;My first attempt at a headturn. Animated on 2&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;Initial layout:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/ht01_layout.jpg&#34; alt=&#34;HT01 Layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>8 Frame Runcycle on 1&#39;s</title>
+        <link>https://www.jessemanschot.nl/post/8-frame-runcycle-on-1s/</link>
+        <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/8-frame-runcycle-on-1s/</guid>
+        <description>&lt;p&gt;A runcycle where one step spans 8 frames. The arm swing is kept to a minimum to prevent too much action happening in a short amount of time.&lt;/p&gt;
+&lt;p&gt;Here it is on 2&amp;rsquo;s:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/rc01_2s_web.m4v&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Initial layout:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/rc01_layout.jpg&#34; alt=&#34;Rc01 Layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Breaking joints</title>
+        <link>https://www.jessemanschot.nl/post/breaking-joints/</link>
+        <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/breaking-joints/</guid>
+        <description>&lt;p&gt;An exercise in &amp;lsquo;breaking joints&amp;rsquo; where the elbows twist and turn in a way only possible in animation.&lt;/p&gt;
+&lt;p&gt;Also added a secondary animation layer; in this case the eyes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/break_joints_layout.jpg&#34; alt=&#34;Walkcycle layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Timed pose studies</title>
+        <link>https://www.jessemanschot.nl/post/timed-pose-studies/</link>
+        <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/timed-pose-studies/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/poses/30sec_pose_1.jpg" alt="Featured image of post Timed pose studies" /&gt;&lt;p&gt;1 Minute poses:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/1min_pose_1.jpg&#34; alt=&#34;1min pose 1&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/1min_pose_2.jpg&#34; alt=&#34;1min pose 2&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;30 Second poses:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/30sec_pose_1.jpg&#34; alt=&#34;30sec pose 1&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/30sec_pose_2.jpg&#34; alt=&#34;30sec pose 2&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/30sec_pose_3.jpg&#34; alt=&#34;30sec pose 3&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;45 Second poses:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/45sec_pose_1.jpg&#34; alt=&#34;45sec pose 1&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/45sec_pose_2.jpg&#34; alt=&#34;45sec pose 2&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/45sec_pose_3.jpg&#34; alt=&#34;45sec pose 3&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;Abstracting torso&amp;rsquo;s with two bean shapes in perspective:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/beans_01.jpg&#34; alt=&#34;Bean torso 1&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/beans_02.jpg&#34; alt=&#34;Bean torso 2&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;Scribbly poses where the pencil stays on the paper, 30 seconds:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/scribbly_pose_1.jpg&#34; alt=&#34;Scribbly pose 1&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/scribbly_pose_2.jpg&#34; alt=&#34;Scribbly pose 2&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/scribbly_pose_3.jpg&#34; alt=&#34;Scribbly pose 3&#34;  /&gt;
+&lt;img src=&#34;https://www.jessemanschot.nl/img/poses/scribbly_pose_4.jpg&#34; alt=&#34;Scribbly pose 4&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>8 Frame Walkcycle on 2&#39;s</title>
+        <link>https://www.jessemanschot.nl/post/8-frame-walkcycle-on-2s/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/8-frame-walkcycle-on-2s/</guid>
+        <description>&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/wc02_2s_web.m4v&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Study of an 8 frame walkcycle on 2&amp;rsquo;s where the torso and head stay leveled.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/wc02_layout.jpg&#34; alt=&#34;Walkcycle layout&#34;  /&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>12 Frame Walkcycle on 3&#39;s</title>
+        <link>https://www.jessemanschot.nl/post/12-frame-walkcycle-on-3s/</link>
+        <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/12-frame-walkcycle-on-3s/</guid>
+        <description>&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/wc03_web.m4v&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Study of a bouncy 12 frame walkcycle on 3&amp;rsquo;s. No inbetweens.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/wc03_layout.jpg&#34; alt=&#34;Walkcycle layout&#34;  /&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Ball in perspective</title>
+        <link>https://www.jessemanschot.nl/post/ball-in-perspective/</link>
+        <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/ball-in-perspective/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/pers_layout.jpg&#34; alt=&#34;Layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Falling flour sack</title>
+        <link>https://www.jessemanschot.nl/post/falling-flour-sack/</link>
+        <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/falling-flour-sack/</guid>
+        <description>&lt;p&gt;Study of a sack of flour falling to the ground. Traditionally animated on 2&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/flour_layout.jpg&#34; alt=&#34;Layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>12 Frame Walkcycle on 1&#39;s</title>
+        <link>https://www.jessemanschot.nl/post/12-frame-walkcycle-on-1s/</link>
+        <pubDate>Sat, 20 Feb 2021 19:41:01 +0530</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/12-frame-walkcycle-on-1s/</guid>
+        <description>&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/wc01_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/wc01_layout.jpg&#34; alt=&#34;Walkcycle layout&#34;  /&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Matryoshka Balls</title>
+        <link>https://www.jessemanschot.nl/post/matryoshka-balls/</link>
+        <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/matryoshka-balls/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/dupb_layout.jpg&#34; alt=&#34;Layout&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bouncing ball</title>
+        <link>https://www.jessemanschot.nl/post/bouncing-ball/</link>
+        <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/bouncing-ball/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Various Watercolor sketches</title>
+        <link>https://www.jessemanschot.nl/post/various-watercolor-sketches/</link>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/various-watercolor-sketches/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/aquarel_4.jpg" alt="Featured image of post Various Watercolor sketches" /&gt;&lt;p&gt;Various watercolor sketches and studies.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/aquarel_2.jpg&#34; alt=&#34;WC2&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/aquarel_3.jpg&#34; alt=&#34;WC3&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/aquarel_4.jpg&#34; alt=&#34;WC4&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/aquarel_5.jpg&#34; alt=&#34;WC5&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/aquarel_6.jpg&#34; alt=&#34;WC6&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/aquarel_7.jpg&#34; alt=&#34;WC7&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Stop-motion Opening of a chest</title>
+        <link>https://www.jessemanschot.nl/post/stop-motion-opening-of-a-chest/</link>
+        <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/stop-motion-opening-of-a-chest/</guid>
+        <description>&lt;p&gt;Study of a character opening a chest. Stop-motion mainly on 1&amp;rsquo;s.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Stop-motion Ball bounce</title>
+        <link>https://www.jessemanschot.nl/post/stop-motion-ball-bounce/</link>
+        <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/stop-motion-ball-bounce/</guid>
+        <description>&lt;p&gt;Study of a hard bouncing ball. Stop-motion on 1&amp;rsquo;s.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Watercolor: Tree study</title>
+        <link>https://www.jessemanschot.nl/post/watercolor-tree-study/</link>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/watercolor-tree-study/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/tree_study.jpg" alt="Featured image of post Watercolor: Tree study" /&gt;&lt;p&gt;Watercolor study of trees.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/tree_study.jpg&#34; alt=&#34;Watercolor&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Butterfly</title>
+        <link>https://www.jessemanschot.nl/post/butterfly/</link>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/butterfly/</guid>
+        <description>&lt;p&gt;Study of a butterfly. Traditionally animated on 2&amp;rsquo;s.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Flowering Flower</title>
+        <link>https://www.jessemanschot.nl/post/flowering-flower/</link>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/flowering-flower/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/flower.gif" alt="Featured image of post Flowering Flower" /&gt;&lt;p&gt;Study of a flower opening up. Traditionally animated on 1&amp;rsquo;s.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Character concept sketches</title>
+        <link>https://www.jessemanschot.nl/post/character-concept-sketches/</link>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/character-concept-sketches/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/char_design_1.jpg" alt="Featured image of post Character concept sketches" /&gt;&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/char_design_1.jpg&#34; alt=&#34;Character 1&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/char_design_2.jpg&#34; alt=&#34;Character 2&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/char_design_3.jpg&#34; alt=&#34;Character 3&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/char_design_4.jpg&#34; alt=&#34;Character 4&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Various sketches</title>
+        <link>https://www.jessemanschot.nl/post/various-sketches/</link>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/various-sketches/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/sketch_1.jpg" alt="Featured image of post Various sketches" /&gt;&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/sketch_1.jpg&#34; alt=&#34;Sketch 1&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/various_01b.jpg&#34; alt=&#34;Characters&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/various_03b.jpg&#34; alt=&#34;Bird&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Watercolor: Night pond</title>
+        <link>https://www.jessemanschot.nl/post/watercolor-night-pond/</link>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/watercolor-night-pond/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/aquarel_blue_thumb.jpg" alt="Featured image of post Watercolor: Night pond" /&gt;&lt;p&gt;Watercolor sketch of a night scene.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/aquarel_blue.jpg&#34; alt=&#34;Watercolor&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Watercolor: Tapir</title>
+        <link>https://www.jessemanschot.nl/post/watercolor-tapir/</link>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/watercolor-tapir/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/tapir.jpg" alt="Featured image of post Watercolor: Tapir" /&gt;&lt;p&gt;Watercolor study of a tapir.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/tapir.jpg&#34; alt=&#34;Watercolor&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Impact &amp; Splash</title>
+        <link>https://www.jessemanschot.nl/post/impact-splash/</link>
+        <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/impact-splash/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/tvp_splash.gif" alt="Featured image of post Impact &amp; Splash" /&gt;&lt;p&gt;Study of a splash. Made in TV Paint.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Lighting a match</title>
+        <link>https://www.jessemanschot.nl/post/lighting-a-match/</link>
+        <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/lighting-a-match/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/tvp_lucifer.gif" alt="Featured image of post Lighting a match" /&gt;&lt;p&gt;Straight ahead animation on 2&amp;rsquo;s made in TV Paint.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ball hitting a wall</title>
+        <link>https://www.jessemanschot.nl/post/ball-hitting-a-wall/</link>
+        <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/ball-hitting-a-wall/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/tvp_ball_wall.gif" alt="Featured image of post Ball hitting a wall" /&gt;&lt;p&gt;An exercise in acceleration and impact. Made with TV Paint.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ball shadow</title>
+        <link>https://www.jessemanschot.nl/post/ball-shadow/</link>
+        <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/ball-shadow/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/tvp_shadow.gif" alt="Featured image of post Ball shadow" /&gt;&lt;p&gt;Study of shadows and physics. Made in TV Paint.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Balloon physics</title>
+        <link>https://www.jessemanschot.nl/post/balloon-physics/</link>
+        <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/balloon-physics/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/tvp_balloon.gif" alt="Featured image of post Balloon physics" /&gt;&lt;p&gt;Study of balloon physics. Made in TV Paint.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Black bird</title>
+        <link>https://www.jessemanschot.nl/post/black-bird/</link>
+        <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/black-bird/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/tvp_bird.gif" alt="Featured image of post Black bird" /&gt;&lt;p&gt;Straight ahead animation on 2&amp;rsquo;s made in TV Paint.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Falling leaf and apple</title>
+        <link>https://www.jessemanschot.nl/post/falling-leaf-and-apple/</link>
+        <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/falling-leaf-and-apple/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/anims/leaf_apple.gif" alt="Featured image of post Falling leaf and apple" /&gt;&lt;p&gt;Study of a falling leaf and apple. Made with TV Paint.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
