@@ -6,7 +6,105 @@
         <description>Recent content on Jesse Manschot</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blizzard children</title>
+        <link>https://www.jessemanschot.nl/post/blizzard-children/</link>
+        <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/blizzard-children/</guid>
+        <description>&lt;p&gt;Grabbing materials at hand to construct a world.&lt;/p&gt;
+&lt;p&gt;I have been watching some of Koji Yamamura&amp;rsquo;s work lately and I&amp;rsquo;ve been struck by his style. When I was reading a &lt;a class=&#34;link&#34; href=&#34;https://animationobsessive.substack.com/p/animating-franz-kafkas-nightmares&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;piece&lt;/a&gt; on him, something he said caught my eye:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Digital art is becoming standard worldwide. But if everyone uses the same apps, there’ll be more works with a similar kind of feel. The key is to skilfully combine digital technology with existing techniques. If you’re satisfied with just one easy-to-use digital tool, you can end up closing down possibilities instead of opening them up.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This really encouraged me to search further in trying out different materials when making animations.&lt;/p&gt;
+&lt;p&gt;For this particular animation I grabbed a piece of packing paper I had lying around and started to draw on it:&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_bg_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;The background, drawn on packing paper.&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_bg_web.jpg&#34;  /&gt;
+          &lt;p&gt;The background, drawn on packing paper.
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I like that you can still see the creases in the paper, while at the same time being on a hill side.&lt;/p&gt;
+&lt;p&gt;The snowflakes are made by splashing black watercolour paint on 30 sheets of paper, Jackson Pollock style. I grouped them together based on the different shapes and sizes of the snowflakes, so when sequenced together, it wouldn&amp;rsquo;t be totally random. There are three layers for the snow, composited interchangeably over each other to forgo any obvious looping.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_pollock_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_pollock_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_pollock2_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_pollock2_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;p&gt;After scanning I inverted the colors so that the black splatters became white snowflakes.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_snow_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The group of boys were discovered by coincidence. I knew I wanted a lantern in there and it was only after I had drawn a simple silhouet behind it that I saw the group coming together.&lt;/p&gt;
+
+&lt;figure &gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_boys_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Boys like tea stains.&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/snowstorm_boys_web.jpg&#34;  /&gt;
+          &lt;p&gt;Boys like tea stains.
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I animated both the lantern and the boys digitally in Krita. The boy layers have an overlay &lt;em&gt;blend mode&lt;/em&gt; which causes them to become more like stains in the packing paper. All was then composited together in Opentoonz.&lt;/p&gt;
+&lt;p&gt;To enhance the atmosphere I added some sound this time.&lt;/p&gt;</description>
+        </item>
+        <item>
         <title>Submerged</title>
         <link>https://www.jessemanschot.nl/post/submerged/</link>
         <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
