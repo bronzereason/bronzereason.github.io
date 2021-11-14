@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jessemanschot.nl/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/post/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/post/returning-to-gesture/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/tags/study/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/tags/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.jessemanschot.nl/tags/animation/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/blizzard-children/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/post/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/tags/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/submerged/</loc>
@@ -25,9 +31,6 @@
   </url><url>
     <loc>https://www.jessemanschot.nl/post/resting-in-the-mud/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/tags/study/</loc>
-    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/the-values-of-sky/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
