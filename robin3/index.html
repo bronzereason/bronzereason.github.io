@@ -1,0 +1,42 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+  <title>Evol/Love - RW</title>
+	<link rel="stylesheet" href="el_style.css">
+</head>
+<script src="icecast-metadata-stats-0.0.1.min.js"></script>
+<script>
+  const onStats = (stats) => {
+    document.getElementById("stats").innerHTML = stats.icestats.source.title;
+  };
+  const statsListener = 
+    new IcecastMetadataStats(
+      "http://45.82.190.21:8000/ices",
+      { sources: ["icestats"], onStats }
+    );
+  statsListener.start();
+</script>
+<body>
+	
+	<h1>Evol/Love</h1>
+	
+	<h2>Radio</h2>
+
+	<div>
+	
+  <audio controls preload="none">
+        <source src="http://45.82.190.21:8000/ices" type="audio/mpeg">
+    </audio>
+		
+		<p> <i> Now Playing: </i> <span id="stats"></span> </p>
+		
+	</div>
+
+	<h2>Locations</h2>
+ <div>
+<iframe src="https://www.google.com/maps/d/embed?mid=1J48M2Irc6YVgvuFuY8ldJ1Lws1fOtaVm" width="80%" height="100%" style="position:relative"></iframe>
+		</div>
+
+</body>
+</html> 
