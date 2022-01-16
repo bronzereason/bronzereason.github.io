@@ -6,7 +6,159 @@
         <description>Recent content on Jesse Manschot</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ultra Short: Morning Sortie</title>
+        <link>https://www.jessemanschot.nl/post/ultra-short-morning-sortie/</link>
+        <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/ultra-short-morning-sortie/</guid>
+        <description>&lt;p&gt;It always strikes me how gracefully gliders are lifted into the sky and seeing them fly on the currents above is like looking at an aquarium. I wanted to capture a snippet of that observation in this short animation.&lt;/p&gt;
+&lt;h2 id=&#34;editing-beforehand&#34;&gt;Editing beforehand&lt;/h2&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_thumbs_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Thumbnailing and editing on the go&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_thumbs_web.jpg&#34;  /&gt;
+          &lt;p&gt;Thumbnailing and editing on the go
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;I started by drawing thumbnails of the images in my head and edited those until I was left with somewhat of a general idea and flow. I then transferred the edited thumbnails to a storyboard:&lt;/p&gt;
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_SB_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;The initial storyboard&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_SB_web.jpg&#34;  /&gt;
+          &lt;p&gt;The initial storyboard
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;This storyboard was also trimmed down. Shots of the winch pulling the plane were unsuitable for the mood I was aiming for. There was a probability of it becoming too much like the real thing, making it quite bland and predictable. I also decided to reveal the plane only until the very last end, so as to maintain a slight mystery.&lt;/p&gt;
+&lt;h2 id=&#34;animating-inanimate-objects&#34;&gt;Animating inanimate objects&lt;/h2&gt;
+&lt;p&gt;The things to be animated were almost exclusively man made objects: a windsock, a rope, a plane.&lt;/p&gt;
+&lt;p&gt;Animating the plane was one of the hardest things I&amp;rsquo;ve drawn so far. Getting the angle right, the way it lifts or drops by the wind and foreshortening the wing span in perspective; just to name a few hurdles. At one point I almost bought a scale model of a glider so I could see with my own eyes how the form behaves.*&lt;/p&gt;
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_miyazaki_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;*Even the master himself, Hayao Miyazaki, struggled animating planes. &lt;br&gt; &lt;a href=&#34;https://www.imdb.com/title/tt3204392/&#34;&gt;&lt;em&gt;The Kingdom of Dreams and Madness&lt;/em&gt;&lt;/a&gt; (2013)&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig3&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_miyazaki_web.jpg&#34;  /&gt;
+          &lt;p&gt;*Even the master himself, Hayao Miyazaki, struggled animating planes. &lt;br&gt; &lt;a href=&#34;https://www.imdb.com/title/tt3204392/&#34;&gt;&lt;em&gt;The Kingdom of Dreams and Madness&lt;/em&gt;&lt;/a&gt; (2013)
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;Keeping control of the form took so much time and effort that I decided to deprioritize that and focus on the movement and overall timing instead.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/glider_c004_rough.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The rope pulling the plane was also trickier than I thought. It turned out I was incapable of drawing the exact same curves over and over again, resulting in a juttery line, so I opted for the vector tool in Opentoonz. That way I could draw a curve, duplicate and edit it in the consecutive frames.&lt;/p&gt;
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_ot-bezier_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Animating vector curves in Opentoonz&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig4&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_ot-bezier_web.jpg&#34;  /&gt;
+          &lt;p&gt;Animating vector curves in Opentoonz
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;The little bird in the background - the only animate organism - is a nine frame loop. I followed the bird flight guide in Whitaker and Halas&#39; book &lt;em&gt;Timing for Animation&lt;/em&gt;. Here it is isolated:&lt;/p&gt;
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig5&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_bird_crop_web.gif&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig5&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_bird_crop_web.gif&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;adding-colour-to-a-dark-world&#34;&gt;Adding colour to a dark world&lt;/h2&gt;
+&lt;p&gt;All the backgrounds are results of a long process of tuning the composition, grading the colours and layering of various elements. I was partially inspired by a beautiful short animation called &lt;a class=&#34;link&#34; href=&#34;https://vimeo.com/53838485&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;L&amp;rsquo;Ondée&lt;/a&gt;, so in the beginning everything was grayscale. Eventually I saw that colours were needed in my particular case to make it more dreamlike and give it more depth, since the gray made it look a little too flat sometimes:&lt;/p&gt;
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig6&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_color01_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Adding colour and contrast&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig6&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/glider_color01_web.jpg&#34;  /&gt;
+          &lt;p&gt;Adding colour and contrast
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;searching-for-song&#34;&gt;Searching for song&lt;/h2&gt;
+&lt;p&gt;In the final stages I was looking for a melody to accompany the images. Then I remembered Saint-Saëns&#39; Aquarium, alluding to the aforementioned observation of the gliders in the sky. It took some tweaking and shifting of the animations and cuts to follow the rythm and development within the music, but it worked out quite okay. The windvane even seems to mimic the scales in the introduction.&lt;/p&gt;
+&lt;p&gt;I can&amp;rsquo;t deny this choice of music invoked a little nod towards &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.imdb.com/title/tt0077405/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Days of Heaven&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;All sound effects and recordings used are licensed under creative commons.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>River bank Impression</title>
+        <link>https://www.jessemanschot.nl/post/river-bank-impression/</link>
+        <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/river-bank-impression/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/2022-01-03/3jan22_01_carousel.jpg" alt="Featured image of post River bank Impression" /&gt;&lt;p&gt;Another impression, this time of a river bank&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&amp;hellip; following the same style as the &lt;a class=&#34;link&#34; href=&#34;https://www.jessemanschot.nl/post/two-moor-impressions&#34; &gt;last two&lt;/a&gt;.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-03/3jan22_aquarel_01_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-03/3jan22_aquarel_01_web.jpg&#34;  /&gt;
+          &lt;p&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;</description>
+        </item>
+        <item>
         <title>Two Moor Impressions</title>
         <link>https://www.jessemanschot.nl/post/two-moor-impressions/</link>
         <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
@@ -18,12 +170,12 @@
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure class=&#34;pull-right&#34;&gt;
   &lt;div class=&#34;snap-wrapper&#34;&gt;
     &lt;a href=&#34;#fig1&#34;&gt;
-      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan21_aquarel_01_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan22_aquarel_01_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
     &lt;/a&gt;
     &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig1&#34;&gt;
         &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
         &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
-          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan21_aquarel_01_web.jpg&#34;  /&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan22_aquarel_01_web.jpg&#34;  /&gt;
           &lt;p&gt;
           &lt;/p&gt;
         &lt;/div&gt;
@@ -34,12 +186,12 @@
 &lt;figure class=&#34;pull-right&#34;&gt;
   &lt;div class=&#34;snap-wrapper&#34;&gt;
     &lt;a href=&#34;#fig2&#34;&gt;
-      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan21_aquarel_02_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan22_aquarel_02_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
     &lt;/a&gt;
     &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig2&#34;&gt;
         &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
         &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
-          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan21_aquarel_02_web.jpg&#34;  /&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-01-02/2jan22_aquarel_02_web.jpg&#34;  /&gt;
           &lt;p&gt;
           &lt;/p&gt;
         &lt;/div&gt;
@@ -53,7 +205,7 @@
         <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
         
         <guid>https://www.jessemanschot.nl/post/a-new-years-blessing/</guid>
-        <description>&lt;p&gt;My new year&amp;rsquo;s blessing, where the blessing is more of a reminder that change is the only constant.&lt;/p&gt;
+        <description>&lt;p&gt;My blessing for the year ahead.&lt;/p&gt;
 &lt;p&gt;This is a variation on something I made earlier as a congratulating gift. There was a message written in the sand which I decided not to disclose because only specific people would understand who&amp;rsquo;s it for and what it&amp;rsquo;s about. Since 2022 is approaching I took the opportunity to change it into something to end the year with.&lt;/p&gt;
 
 &lt;div class=&#34;snap-gallery&#34;&gt;
@@ -267,7 +419,7 @@
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>Ultra short: Sapling&#39;s Fall</title>
+        <title>Ultra Short: Sapling&#39;s Fall</title>
         <link>https://www.jessemanschot.nl/post/ultra-short-saplings-fall/</link>
         <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
         
