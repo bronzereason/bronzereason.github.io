@@ -5,7 +5,7 @@
         <link>https://www.jessemanschot.nl/</link>
         <description>Recent content on Jesse Manschot</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>en-nl</language>
         <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Gesture Drawing over the Weekend</title>
         <link>https://www.jessemanschot.nl/post/gesture-drawing-over-the-weekend/</link>
@@ -616,7 +616,7 @@
         <description>&lt;p&gt;This started out as a simple experiment of a tree bending in the wind, but I realized I could create a tiny story around it.&lt;/p&gt;
 &lt;h3 id=&#34;drawing-the-tree&#34;&gt;Drawing the tree&lt;/h3&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure &gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure class=&#34;pull-right&#34;&gt;
   &lt;div class=&#34;snap-wrapper&#34;&gt;
     &lt;a href=&#34;#fig1&#34;&gt;
       &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boom_bts_janica.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
@@ -638,7 +638,7 @@
 &lt;p&gt;The tree in this short only consists of 8 drawings. I timed them on 4&amp;rsquo;s and duplicated the column, shifted it two frames and added a transparency effect to recreate the digital version of the aforementioned double exposure technique.&lt;/p&gt;
 &lt;h3 id=&#34;animating-the-sapling&#34;&gt;Animating the sapling&lt;/h3&gt;
 
-&lt;figure &gt;
+&lt;figure class=&#34;pull-right&#34;&gt;
   &lt;div class=&#34;snap-wrapper&#34;&gt;
     &lt;a href=&#34;#fig2&#34;&gt;
       &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/boom_bts_concept_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
