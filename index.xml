@@ -6,7 +6,72 @@
         <description>Recent content on Jesse Manschot</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-nl</language>
-        <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>11 Second Club: January</title>
+        <link>https://www.jessemanschot.nl/post/11-second-club-january/</link>
+        <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/11-second-club-january/</guid>
+        <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Frank Thomas [&amp;hellip;] always criticised me (constructively) for spending too much time on spectacular surrounding animation and not enough of going straight for the emotional centre.&amp;quot;&lt;/em&gt;&lt;br&gt;
+&amp;ndash; Richard Williams&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been a while since I &lt;a class=&#34;link&#34; href=&#34;https://www.jessemanschot.nl/post/11-second-club-july-entry/&#34; &gt;last&lt;/a&gt; entered the &lt;a class=&#34;link&#34; href=&#34;https://www.11secondclub.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;11 Second Club&lt;/a&gt;, the monthly character animation contest.&lt;/p&gt;
+&lt;p&gt;In my last entry I hadn&amp;rsquo;t done any lip sync or deliberate character animation, which is something I veered away from, not only due to time constraints but also because of my lack of knowledge on the subject.&lt;/p&gt;
+&lt;p&gt;This time I decided to prepare well enough so I could venture into it with a little more enjoyment. Only after reading Richard William&amp;rsquo;s last chapters on lip sync animation and performance in &lt;em&gt;The Animator&amp;rsquo;s Survival Kit&lt;/em&gt; did I aquire enough confidence to tackle it.&lt;/p&gt;
+&lt;h3 id=&#34;preparation&#34;&gt;Preparation&lt;/h3&gt;
+&lt;p&gt;This month&amp;rsquo;s contest featured a clip of a film called &lt;em&gt;Good Girls&lt;/em&gt;. I never heard of it and reframed from looking at it until I had finished the animation, to not be (unconsciously) influenced.&lt;/p&gt;
+&lt;p&gt;First I layed out the sentences of the recording on an X-sheet to get an overview of the entire dialogue. That way I could determine which frame numbers corresponded to the accents in the sentences and would help me in deciding where to stress the performance of the characters, which are also rough markers on where to draw the key frames.&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjan22_xsheet_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Two pages from the X-sheet&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjan22_xsheet_web.jpg&#34;  /&gt;
+          &lt;p&gt;Two pages from the X-sheet
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;Then, to get a rough idea of how the mouths would move, I utilized Dragonframe&amp;rsquo;s build in &lt;a class=&#34;link&#34; href=&#34;https://vimeo.com/363940700&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Track Reading&lt;/a&gt;. It has some nice mouth shapes which can be timed to the words.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/11secJan22_trackreading_v1.mp4&#34; controls&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;In the beginning I didn&amp;rsquo;t really know who the characters were, of what they would look like. I did know I wanted to create a bit more complexity and personality than any of the characters in my previous animations.&lt;/p&gt;
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjan22_thumbs2_web.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;First character ideas&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjan22_thumbs2_web.jpg&#34;  /&gt;
+          &lt;p&gt;First character ideas
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;p&gt;The newspaper caught my attention when it told the story of a mine-clearing rat called &lt;em&gt;Magawa&lt;/em&gt;, who &lt;a class=&#34;link&#34; href=&#34;https://www.bbc.com/news/world-asia-59951255&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;died recently&lt;/a&gt;. The phenomenon was completely new to me. So, as a little ode to a deceased little fellow, I settled on two rats as the main characters in this animation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.jessemanschot.nl/img/anims/11secjan22_thumbs_web.jpg&#34; alt=&#34;Thumbnails&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;To get a grip on the acting, I started by drawing little thumbnails containing the main emotions which would present themselves during the hard accents in the dialogue. They gave me a clear understanding on the beats to hit and the interaction between the two.&lt;/p&gt;
+&lt;h3 id=&#34;animating&#34;&gt;Animating&lt;/h3&gt;
+&lt;p&gt;After thumbnailing I quickly started drawing in the key frames on top of the audio. That way I sensed if the timing would work and paved a clearer way for all the extremes and inbetweens ahead. While I was animating, I still shifted some keyframes to refine the performance until I was satisfied. Here is the final rough animation, with the keyframes marked by their respective frame numbers:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/11secjan22_rough_v8.mp4&#34; controls&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Finalizing the product -the inking and inbetweening- took a lot longer than I expected; not only do the characters almost constantly move, drawing the big shapes consistently while also keeping track of the details such as the hands, ears and eyes required constant attention. Here is a little timelapse to get a glimpse of the process:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/11secjan22_inknbetween_web.mp4&#34; controls&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;All in all this was a lot more fun than I anticipated. I&amp;rsquo;ve definitely gained more respect for acting and performance in general, now that I got a taste of all the potential subtleties in character animation. I&amp;rsquo;m looking forward to learn more.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gesture Drawing over the Weekend</title>
         <link>https://www.jessemanschot.nl/post/gesture-drawing-over-the-weekend/</link>
         <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
