@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Jesse Manschot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-nl</language>
-    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yo-yo</title>
+      <link>https://www.jessemanschot.nl/post/yo-yo/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jessemanschot.nl/post/yo-yo/</guid>
+      <description>I sketched the main character from the character design workshop I attended last month and decided to create a little illustration from it. The colours and shapes in the background were made digitally.
+I took some inspiration from abstract block prints as well as Koji Morimoto&amp;rsquo;s crazy drawings in terms of the usage of colour, but I was cautious not to overdo it.
+Initial sketch   Initial sketch     Final illustration   Final illustration     </description>
+    </item>
+    
     <item>
       <title>Empty Marker Doodles</title>
       <link>https://www.jessemanschot.nl/post/empty-marker-doodles/</link>
@@ -35,7 +46,7 @@ I quickly got stuck when I tried to draw the characters out of nothing, directly
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.jessemanschot.nl/post/11-second-club-january/</guid>
-      <description>&amp;ldquo;Frank Thomas [&amp;hellip;] always criticised me (constructively) for spending too much time on spectacular surrounding animation and not enough of going straight for the emotional centre.&amp;rdquo; &amp;ndash; Richard Williams
+      <description>&amp;ldquo;Frank Thomas [&amp;hellip;] always criticised me (constructively) for spending too much time on spectacular surrounding animation and not enough of going straight for the emotional centre.&amp;quot; &amp;ndash; Richard Williams
 It&amp;rsquo;s been a while since I last entered the 11 Second Club, the monthly character animation contest.
 In my last entry I hadn&amp;rsquo;t done any lip sync or deliberate character animation, which is something I veered away from, not only due to time constraints but also because of my lack of knowledge on the subject.</description>
     </item>
@@ -416,8 +427,8 @@ The colours are inverted for clarity (but also because the amber looks really co
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.jessemanschot.nl/post/walkcycle-in-perspective/</guid>
-      <description>An exercise in animating a walkcycle on the third Z-dimension. Though animated on 3&amp;rsquo;s, it&amp;rsquo;s interesting to see that the further away the character gets, the less the animation seems to be &amp;rsquo;limited&amp;rsquo; or jaggy because of the increased overlap in the spacing between the individual frames. I suppose one could get away with animating characters or objects in the distance on 3&amp;rsquo;s.
-I used the technique from Richard Williams&amp;rsquo; book on where to place the key positions:</description>
+      <description>An exercise in animating a walkcycle on the third Z-dimension. Though animated on 3&amp;rsquo;s, it&amp;rsquo;s interesting to see that the further away the character gets, the less the animation seems to be &amp;lsquo;limited&amp;rsquo; or jaggy because of the increased overlap in the spacing between the individual frames. I suppose one could get away with animating characters or objects in the distance on 3&amp;rsquo;s.
+I used the technique from Richard Williams&#39; book on where to place the key positions:</description>
     </item>
     
     <item>
@@ -450,10 +461,10 @@ I used the technique from Richard Williams&amp;rsquo; book on where to place the
     
     <item>
       <title>16 frame walk &#43; overlapping action</title>
-      <link>https://www.jessemanschot.nl/post/16-frame-walk--overlapping-action/</link>
+      <link>https://www.jessemanschot.nl/post/16-frame-walk-overlapping-action/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jessemanschot.nl/post/16-frame-walk--overlapping-action/</guid>
+      <guid>https://www.jessemanschot.nl/post/16-frame-walk-overlapping-action/</guid>
       <description>In this animation I tried to combine multiple exercises:
  2 subjects reacting to each other A 16-frame &amp;ldquo;leisurely&amp;rdquo; walkcycle on 2&amp;rsquo;s and bringing it to a halt Animating overlapping action; in this case, the opened box lids drag behind its core movement. Also, the head of the figure extends slightly more after its back has arched backwards. Small expression animations, which added up to a total of 4 animation layers.</description>
     </item>
