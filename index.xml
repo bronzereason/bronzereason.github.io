@@ -6,7 +6,202 @@
         <description>Recent content on Jesse Manschot</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-nl</language>
-        <lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Brain Twist</title>
+        <link>https://www.jessemanschot.nl/post/brain-twist/</link>
+        <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/brain-twist/</guid>
+        <description>&lt;p&gt;When I visited Koji Morimoto&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;http://www.kojimorimoto.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;website&lt;/a&gt; recently I was surprised by a little animation he uses to load the page. It consists of 9 drawings of different shapes and characters that morph beautifully into each other. I managed to extract them from his website to analyze it further:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/parapara.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;What I really enjoy about it is how each frame is a drawing on its own, yet they still follow up logically in a sequence. I felt the urge to animate so I took this same concept of a little looping/morphing animation and went ahead and started out with this rough blocking:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/bt_penciltest_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;After I was content with the overall morphing of the shapes I started filling in those keyframes with some sketches of organisms and animals:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://www.jessemanschot.nl/img/anims/bt_penciltest2_web.mp4&#34; controls loop&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Timing-wise I ultimately settled on 3&amp;rsquo;s, to give the viewer just enough of a gap to process it all. Then it was just a matter of inbetweening every other frame and cleaning up the drawings. I applied a hint of purple in the lines by overlaying a gradient map.&lt;/p&gt;
+&lt;p&gt;See the gallery below to see each frame as a seperate drawing.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0001.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0001.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0002.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0002.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig3&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0003.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig3&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0003.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig4&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0004.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig4&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0004.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig5&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0005.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig5&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0005.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig4&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig6&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0006.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig6&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0006.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig5&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig7&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig7&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0007.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig7&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0007.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig6&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig8&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig8&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0008.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig8&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0008.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig7&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig9&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig9&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0009.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig9&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0009.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig8&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig10&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig10&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0010.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig10&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0010.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig9&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig11&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig11&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0011.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig11&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0011.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig10&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig12&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+&lt;figure&gt;
+    
+    &lt;a href=&#34;#gal1-fig12&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/anims/2022-03-14/bt_full_img.0012.jpg&#34; class=&#34;snap-thumb&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig12&#34;&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+      &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+        &lt;img src=&#39;https://www.jessemanschot.nl/img/anims/2022-03-14//bt_full_img.0012.jpg&#39; /&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig11&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+
+
+
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>Yo-yo</title>
         <link>https://www.jessemanschot.nl/post/yo-yo/</link>
         <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
