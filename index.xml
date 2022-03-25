@@ -6,7 +6,75 @@
         <description>Recent content on Jesse Manschot</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-nl</language>
-        <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jessemanschot.nl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Butterfly</title>
+        <link>https://www.jessemanschot.nl/post/butterfly/</link>
+        <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.jessemanschot.nl/post/butterfly/</guid>
+        <description>&lt;img src="https://www.jessemanschot.nl/img/drawings/2022-03-25/vlinder_web_thumb_920px.jpg" alt="Featured image of post Butterfly" /&gt;&lt;p&gt;Another drawing made with a 4B pencil. All coloring was done digitally.&lt;/p&gt;
+
+&lt;div class=&#34;snap-gallery&#34;&gt;
+  
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.jessemanschot.nl/css/snap-gallery.css&#34; /&gt;&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-03-25/vlinder_web_sketches.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Initial thumbnailing&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-03-25/vlinder_web_sketches.jpg&#34;  /&gt;
+          &lt;p&gt;Initial thumbnailing
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;span class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+          &lt;a href=&#34;#gal1-fig2&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#gal1-fig2&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-03-25/vlinder_web_pencil_1440px.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Pencil drawing&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;gal1-fig2&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-03-25/vlinder_web_pencil_1440px.jpg&#34;  /&gt;
+          &lt;p&gt;Pencil drawing
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;#gal1-fig1&#34; class=&#34;snap-lightbox-prev&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+          &lt;a href=&#34;#gal1-fig3&#34; class=&#34;snap-lightbox-next&#34;&gt;&lt;i class=&#34;snap-lightbox-arrow&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+  &lt;div class=&#34;snap-wrapper&#34;&gt;
+    &lt;a href=&#34;#fig1&#34;&gt;
+      &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-03-25/vlinder_web_full_1440px.jpg&#34; class=&#34;snap-thumb&#34;/&gt;
+        &lt;figcaption&gt;Final colored illustration&lt;/figcaption&gt;
+    &lt;/a&gt;
+    &lt;div class=&#34;snap-lightbox&#34; id=&#34;fig1&#34;&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close&#34;&gt;&lt;/a&gt;
+        &lt;div class=&#34;snap-lightbox-inner&#34;&gt;
+          &lt;img src=&#34;https://www.jessemanschot.nl/img/drawings/2022-03-25/vlinder_web_full_1440px.jpg&#34;  /&gt;
+          &lt;p&gt;Final colored illustration
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;#_&#34; class=&#34;snap-lightbox-close-button&#34;&gt;&lt;i class=&#34;snap-lightbox-x&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/figure&gt;
+</description>
+        </item>
+        <item>
         <title>Imagine a Sandcastle</title>
         <link>https://www.jessemanschot.nl/post/imagine-a-sandcastle/</link>
         <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
