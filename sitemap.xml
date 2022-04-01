@@ -11,7 +11,7 @@
     <loc>https://www.jessemanschot.nl/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jessemanschot.nl/post/</loc>
+    <loc>https://www.jessemanschot.nl/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/tags/</loc>
@@ -32,9 +32,6 @@
     <loc>https://www.jessemanschot.nl/post/empty-marker-doodles/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jessemanschot.nl/tags/study/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.jessemanschot.nl/post/character-design-workshop-module-1/</loc>
     <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,6 +39,9 @@
     <lastmod>2022-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/gesture-drawing-over-the-weekend/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/tags/study/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/ultra-short-morning-sortie/</loc>
@@ -173,7 +173,7 @@
     <loc>https://www.jessemanschot.nl/post/more-pose-studies/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jessemanschot.nl/post/16-frame-walk-overlapping-action/</loc>
+    <loc>https://www.jessemanschot.nl/post/16-frame-walk--overlapping-action/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/headturn/</loc>
@@ -214,10 +214,6 @@
   </url><url>
     <loc>https://www.jessemanschot.nl/about/</loc>
   </url><url>
-    <loc>https://www.jessemanschot.nl/archives/</loc>
-  </url><url>
     <loc>https://www.jessemanschot.nl/categories/</loc>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/page/</loc>
   </url>
 </urlset>
