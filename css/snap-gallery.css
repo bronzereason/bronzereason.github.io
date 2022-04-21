@@ -68,7 +68,7 @@ figure.no-border .snap-wrapper {
 
 /** GALLERY MARKUP **/
 .snap-gallery {
-  margin: 0px;
+  margin-bottom: 20px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -81,7 +81,7 @@ figure.no-border .snap-wrapper {
 
 .snap-gallery figure {
   position: relative;
-  width: 45%;
+  width: 40%;
 	padding-bottom: 45%;
   margin: 1%;
   text-align: left;
