@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jessemanschot.nl/tags/drawing/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/tags/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/post/weird-fishies/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.jessemanschot.nl/post/a-midsummers-dream/</loc>
     <lastmod>2022-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/tags/animation/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/tags/drawing/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.jessemanschot.nl/tags/</loc>
     <lastmod>2022-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/this-way/</loc>
@@ -185,7 +188,7 @@
     <loc>https://www.jessemanschot.nl/post/more-pose-studies/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.jessemanschot.nl/post/16-frame-walk-overlapping-action/</loc>
+    <loc>https://www.jessemanschot.nl/post/16-frame-walk--overlapping-action/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jessemanschot.nl/post/headturn/</loc>
@@ -227,5 +230,7 @@
     <loc>https://www.jessemanschot.nl/about/</loc>
   </url><url>
     <loc>https://www.jessemanschot.nl/categories/</loc>
+  </url><url>
+    <loc>https://www.jessemanschot.nl/portfolio/</loc>
   </url>
 </urlset>
