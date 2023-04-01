@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Making of: The Zen of Ice Skating - Jesse Manschot</title>
+<meta charset="utf-8" />
+<meta name="description" content="I went back to (mostly) analogue animating for this one. The character is drawn with a calligraphy pen and the background cycle is made of charcoal…" />
+<meta name="author" content="Jesse Manschot" />
+<meta name="generator" content="Datenstrom Yellow" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<script  type="text/javascript"  src="/media/resources/jquery-2.2.4.min.js"></script>
+<link    href="/media/themes/nanogallery2.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" href="/feed/page=feed.xml" />
+<link rel="stylesheet" type="text/css" media="all" href="/media/extensions/gallery.css" />
+<script type="text/javascript" defer="defer" src="/media/extensions/gallery-photoswipe.min.js"></script>
+<script type="text/javascript" defer="defer" src="/media/extensions/gallery.js"></script>
+<meta property="og:url" content="https://www.jessemanschot.nl/blog/the-zen-of-ice-skating" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Making of: The Zen of Ice Skating" />
+<meta property="og:site_name" content="Jesse Manschot" />
+<meta property="og:description" content="I went back to (mostly) analogue animating for this one. The character is drawn with a calligraphy pen and the background cycle is made of charcoal…" />
+<meta property="og:image" content="https://www.jessemanschot.nl/media/themes/stockholm.png" />
+<meta property="og:image:alt" content="Making of: The Zen of Ice Skating" />
+<link rel="stylesheet" type="text/css" media="all" href="/media/themes/stockholm.css" />
+<link rel="icon" type="image/png" href="/media/themes/stockholm.png" />
+</head>
+<body>
+<div class="page layout-blog">
+<div class="header" role="banner">
+<div class="sitename">
+<h1><a href="/"><i class="sitename-logo"></i>Jesse Manschot</a></h1>
+<p>Animation &amp; Illustration</p>
+</div>
+<div class="sitename-banner"></div>
+<div class="navigation" role="navigation">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/animation/">Animation</a></li>
+<li><a href="/illustration/">Illustration</a></li>
+<li><a href="/sketch/">Sketch</a></li>
+<li><a class="active" aria-current="page" href="/blog/">Blog</a></li>
+<li><a href="/about/">Bio</a></li>
+</ul>
+</div>
+<div class="navigation-banner"></div>
+</div>
+<div class="content">
+<div class="main" role="main">
+<div class="entry">
+<div class="entry-title"><h1>Making of: The Zen of Ice Skating</h1></div>
+<div class="entry-meta"><p>2021-08-31 </p></div>
+<div class="entry-content"><!--more-->
+
+
+
+<div style="padding:56.25% 0 0 0;position:relative;margin-bottom:30px"><iframe src="https://player.vimeo.com/video/596145705?h=725759c95a&loop=1&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+
+<p>I went back to (mostly) analogue animating for this one. The character is drawn with a calligraphy pen and the background cycle is made of charcoal drawings. All was composited in Opentoonz and digitally colored in Krita.</p>
+
+<p>{{&lt; gallery >}}
+{{&lt; figure src="/img/anims/iceskating_sketches_web.jpg" caption="Concept doodling" >}}
+{{&lt; figure src="/img/anims/iceskating_ref_web.jpg" caption="Movement pattern" >}}
+{{&lt; /gallery >}}</p>
+
+<p>The ice is a series of five charcoal drawings looping on two layers and blended together:</p>
+
+<p>{{&lt; gallery >}}
+    {{&lt; figure src="/img/anims/iceskating_bg1_web.jpg" >}}
+    {{&lt; figure src="/img/anims/iceskating_bg2_web.jpg" >}}
+    {{&lt; figure src="/img/anims/iceskating_bg3_web.jpg" >}}
+    {{&lt; figure src="/img/anims/iceskating_bg4_web.jpg" >}}
+    {{&lt; figure src="/img/anims/iceskating_bg5_web.jpg" >}}<br />
+{{&lt; /gallery >}}</p>
+
+<p>Here is a little video showing the various phases in the workflow:</p>
+
+<p><video src="/blog/img/anims/iceskating_bts_web.mp4" controls="controls" loop="loop"></video></p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer" role="contentinfo">
+	© 2021 - 2023 
+<div class="siteinfo">
+</div>
+<div class="siteinfo-banner">Built with <a href="https://datenstrom.se/yellow/" target="_blank">Datenstrom Yellow</a> • Hosted on <a href="https://github.com/bronzereason/bronzereason.github.io" target="_blank">Github</a><br>
+Designed following the <a href="https://permacomputing.net/Principles/" target="_blank">Permacomputing Principles</a>
+</div>
+<br>
+</div>
+</div>
+</body>
+</html>
