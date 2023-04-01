@@ -50,51 +50,37 @@
 <div class="blog-banner"><a href="/blog/brain-twist"><img src='/media/images/blog_banners/jesse-manschot_brain-twist_blog-banner_web.jpg'></img></a></div>
 <div class="entry-title"><h1><a href="/blog/brain-twist">Making of: Brain Twist</a></h1></div>
 <div class="entry-meta"><p>2022-03-14 • Animation</p></div>
-<!--- <div class="entry-content"><a href="/blog/brain-twist">Read more…</a></div>
-</div> --->
 <div class="entry">
 <div class="blog-banner"><a href="/blog/character-design-workshop-module-1"><img src='/media/images/blog_banners/jesse-manschot_char-design_blog-banner_web.jpg'></img></a></div>
 <div class="entry-title"><h1><a href="/blog/character-design-workshop-module-1">Character Design Workshop: Module 1</a></h1></div>
 <div class="entry-meta"><p>2022-03-05 • Drawing</p></div>
-<!--- <div class="entry-content"><a href="/blog/character-design-workshop-module-1">Read more…</a></div>
-</div> --->
 <div class="entry">
 <div class="blog-banner"><a href="/blog/second-club-january"><img src='/media/images/blog_banners/jesse-manschot_11secjan22_blog-banner_web.jpg'></img></a></div>
 <div class="entry-title"><h1><a href="/blog/second-club-january">Making of: 11 Second Club: January</a></h1></div>
 <div class="entry-meta"><p>2022-01-30 • Animation</p></div>
-<!--- <div class="entry-content"><a href="/blog/second-club-january">Read more…</a></div>
-</div> --->
 <div class="entry">
 <div class="blog-banner"><a href="/blog/ultra-short-morning-sortie"><img src='/media/images/blog_banners/jesse-manschot_morning-sortie_blog-banner_web.jpg'></img></a></div>
 <div class="entry-title"><h1><a href="/blog/ultra-short-morning-sortie">Making of: Morning Sortie</a></h1></div>
 <div class="entry-meta"><p>2022-01-16 • Animation</p></div>
-<!--- <div class="entry-content"><a href="/blog/ultra-short-morning-sortie">Read more…</a></div>
-</div> --->
 <div class="entry">
 <div class="blog-banner"><a href="/blog/a-new-years-blessing"><img src='/media/images/blog_banners/jesse-manschot_new-years-blessing_blog-banner_web.jpg'></img></a></div>
 <div class="entry-title"><h1><a href="/blog/a-new-years-blessing">Making of: A New Year&#039;s Blessing</a></h1></div>
 <div class="entry-meta"><p>2021-12-31 • Animation</p></div>
-<!--- <div class="entry-content"><a href="/blog/a-new-years-blessing">Read more…</a></div>
-</div> --->
 <div class="entry">
 <div class="blog-banner"><a href="/blog/ultra-short-saplings-fall"><img src='/media/images/blog_banners/jesse-manschot_saplings-fall_blog-banner_web.jpg'></img></a></div>
 <div class="entry-title"><h1><a href="/blog/ultra-short-saplings-fall">Making of: Sapling&#039;s Fall</a></h1></div>
 <div class="entry-meta"><p>2021-12-03 • Animation</p></div>
-<!--- <div class="entry-content"><a href="/blog/ultra-short-saplings-fall">Read more…</a></div>
-</div> --->
 <div class="entry">
 <div class="blog-banner"><a href="/blog/blizzard-children"><img src='/media/images/blog_banners/jesse-manschot_blizzard-children_blog-banner_web.jpg'></img></a></div>
 <div class="entry-title"><h1><a href="/blog/blizzard-children">Making of: Blizzard children</a></h1></div>
 <div class="entry-meta"><p>2021-11-01 • Animation</p></div>
-<!--- <div class="entry-content"><a href="/blog/blizzard-children">Read more…</a></div>
-</div> --->
 <div class="pagination" role="navigation" aria-label="Page">
 <a class="previous" href="/blog/">← Previous</a>
 <a class="next" href="/blog/page=3">Next →</a>
 </div>
 </div>
 </div>
-<div class="blog-top"><a href="/feed/page:feed.xml">RSS</a> · <a href="/search">Search</a></div>
+<div class="blog-top"><a href="/feed/page:feed.xml">RSS</a>
 <div class="footer" role="contentinfo">
 	© 2021 - 2023 
 <div class="siteinfo">

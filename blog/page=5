@@ -50,16 +50,12 @@
 <div class="blog-banner"><a href="/blog/early-drawing-practice"><img src=''></img></a></div>
 <div class="entry-title"><h1><a href="/blog/early-drawing-practice">Early Drawing Practice</a></h1></div>
 <div class="entry-meta"><p>2021-04-30 • Study</p></div>
-<!--- <div class="entry-content"><p>This is a collection of drawings and studies of the human figure, which I made between february and june of 2021.</p>
-
-<a href="/blog/early-drawing-practice">Read more…</a></div>
-</div> --->
 <div class="pagination" role="navigation" aria-label="Page">
 <a class="previous" href="/blog/page=4">← Previous</a>
 </div>
 </div>
 </div>
-<div class="blog-top"><a href="/feed/page:feed.xml">RSS</a> · <a href="/search">Search</a></div>
+<div class="blog-top"><a href="/feed/page:feed.xml">RSS</a>
 <div class="footer" role="contentinfo">
 	© 2021 - 2023 
 <div class="siteinfo">
