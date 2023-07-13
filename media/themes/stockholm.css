@@ -1,5 +1,24 @@
 /* Stockholm extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/stockholm */
 
+@font-face {
+    font-family: 'ET Book';
+    src:  url('font/et-book-roman-old-style-figures.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+  }
+@font-face {
+    font-family: 'ET Book';
+    src:  url('font/et-book-semi-bold-old-style-figures.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ET Book';
+    src:  url('font/et-book-display-italic-old-style-figures.woff') format('woff');
+    font-style: italic;
+    font-weight: normal;
+}
+
 html, body, div, form, pre, span, tr, th, td, img {
     margin: 0;
     padding: 0;
@@ -14,11 +33,9 @@ body {
    	flex-direction: column;
     margin: 0 0 1em;
 	padding: 15px;
-    background-image: radial-gradient(circle at 1px 1px, rgb(238, 224, 224) 1px, transparent 0);
-    background-size: 15px 15px;
-    background-color: #FCFAF8;
-    color: #666;
-    font-family: "Arial", "Helvetica", "Verdana", "Trebuchet MS", sans-serif;
+    background-color: #fffff8;
+    color: #111;
+    font-family: "ET Book";
     font-style: normal;
     font-display: swap;
     font-size: 14px;
@@ -31,12 +48,12 @@ h3,
 h4,
 h5,
 h6 {
-    color: #444;
+    color: #111;
     font-weight: 400;
 }
 h1 {
-    color: #444;
-    font-size: 1.2em;
+    color: #111;
+    font-size: 2.8em;
     font-weight: 400;
 }
 hr {
@@ -49,23 +66,27 @@ strong {
 }
 code {
     font-size: 1.1em;
+    font-family: 'Courier New', Courier, monospace;
 }
-a {
-    color: rgb(221, 122, 0);
-    text-decoration: none;
-}
-a:hover {
-    color: rgb(221, 122, 0);
-    text-decoration: underline;
-}
+
+a:link, a:visited { color: inherit; }
+
 .blog-top {
     font-size: 1rem;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-style: uppercase;
     text-align: right;
     margin: 0em;
 }
 .blog-banner {
     margin-top: 40px;
-    margin-bottom: 0px;
+    margin-bottom: 15px;
+    border: 1px solid #111;
+    line-height: 0rem;
+    font-size: 0em;
+}
+.blog-banner img {
+    margin-bottom: 0px !important; 
 }
 .blog-vimeo {
     padding: 56.25% 0 0 0;
@@ -79,25 +100,46 @@ video {
 
 .content {
   flex: 1 0 auto;
+  font-size: 1.4em;
+  line-height: 2rem;
 }
 .content p {
-    margin-top: 0px;
-    text-align: justify;
+    margin-top: 10px;
 }
 .content h1 {
-    margin-bottom: 0.1em;
+    margin-bottom: 0em;
     margin-top: 0em;
+    line-height: 3rem;
+    font-style: italic;
 }
 .content h1 a {
-    color: rgb(221, 122, 0);
+    text-decoration: none;
+    background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+    background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
+    -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+    -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+    background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+    background-repeat: no-repeat, no-repeat, repeat-x;
+    text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+    background-position: 0% 93%, 100% 93%, 0% 93%;
 }
 .content h1 a:hover {
     color: #111;
     text-decoration: none;
 }
+.content a:link::selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+    background: #b4d5fe;
+}
+.content a:link::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+         background: #b4d5fe; 
+}
 .content .entry-meta {
     color: #999;
-    font-size: 0.8rem;
+    font-size: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.content .entry-meta p {
+    margin-top: 0px;
 }
 .content img {
     max-width: 100%;
@@ -234,6 +276,14 @@ video {
 .photoswipe {
 	text-align: center;
 }
+.photoswipe a {
+    line-height: 0;
+    font-size: 0em;
+}
+.photoswipe img {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
 .pswp__caption__center {
 	text-align: center !important;
 }
@@ -241,6 +291,7 @@ video {
 /* Header */
 
 .header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 2em 0;
 }
 .header .sitename {
@@ -248,41 +299,43 @@ video {
     float: left;
 }
 .header .sitename h1 {
+    font-size: 2rem;
     margin: 0;
-    font-size: 1.3em;
     font-weight: 400;
 }
 .header .sitename h1 a {
-    color: #444;
+    color: #111;
     text-decoration: none;
-    padding: 0.5em 0;
+    padding: 1em 0;
 }
 .header .sitename h1 a:hover {
-    color: rgb(221, 122, 0);
+    color: rgb(255, 210, 110);
 }
 .header .sitename p {
-    margin-top: 0;
+    margin-top: 5px;
+    padding-left: 10px;
     color: #888;
-		font-style: italic;
-		font-size: 0.9rem;
+		font-size: 1rem;
 }
 
 /* Navigation */
 
 .navigation {
+    line-height: 2rem;
     display: block;
     float: right;
 }
 .navigation a {
-    color: #888;
+    color: #111;
     font-weight: 300;
+    text-transform: uppercase;
     text-decoration: none;
     padding: 0.2em 0;
     margin: 0 0.5em;
 }
 .navigation a:hover {
-    color: rgb(221, 122, 0);
-    border-bottom: solid 1px rgb(221, 122, 0);
+    color: rgb(255, 210, 110);
+    border-bottom: solid 2px rgb(255, 210, 110);
 }
 .navigation ul {
     margin: 0 -0.5em;
@@ -293,7 +346,7 @@ video {
     display: inline;
 }
 .navigation li a.active {
-    border-bottom: solid 1px rgb(221, 122, 0);
+    border-bottom: solid 2px rgb(255, 210, 110);
 }
 .navigation-banner {
     clear: both;
@@ -310,10 +363,12 @@ video {
   flex-shrink: 0;
 	text-align: center;
     padding-top: 20px;
+    font-family: "Helvetica", "Arial", sans-serif;
+    color: #888;
+    font-size: 0.8rem;
 }
 .footer .siteinfo {
 		word-spacing: 10px;
-		font-size: 1.2rem;
 }
 .footer .siteinfo a {
     color: inherit;
