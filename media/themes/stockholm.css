@@ -33,7 +33,7 @@ body {
    	flex-direction: column;
     margin: 0 0 1em;
 	padding: 15px;
-    background-color: #dfe0e1;
+    background-color: #f5f5f7;
     color: #111;
     font-family: "HK Grotesk";
     font-style: normal;
@@ -56,6 +56,9 @@ h1 {
     font-size: 2.8em;
     font-weight: 400;
 }
+h2 {
+    margin-bottom: 5px;
+}
 hr {
     height: 1px;
     background: #ddd;
@@ -72,7 +75,7 @@ code {
 a:link, a:visited { color: inherit; }
 
 a:hover {
-    color: #eeb958;
+    color: #ffc760;
 }
 
 .blog-top {
@@ -128,7 +131,7 @@ video {
     background-position: 0% 93%, 100% 93%, 0% 80%;
 }
 .content h1 a:hover {
-    color: #eeb958;
+    color: #ffc760;
     text-decoration: none;
 }
 .content a:link::selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
@@ -318,7 +321,7 @@ video {
     padding: 1em 0;
 }
 .header .sitename h1 a:hover {
-    color: #eeb958;
+    color: #ffc760;
 }
 .header .sitename p {
     margin-top: 5px;
@@ -343,8 +346,8 @@ video {
     margin: 0 0.5em;
 }
 .navigation a:hover {
-    color: #eeb958;
-    border-bottom: solid 2px #eeb958;
+    color: #ffc760;
+    border-bottom: solid 2px #ffc760;
 }
 .navigation ul {
     margin: 0 -0.5em;
@@ -355,7 +358,7 @@ video {
     display: inline;
 }
 .navigation li a.active {
-    border-bottom: solid 2px #eeb958;
+    border-bottom: solid 2px #ffc760;
 }
 .navigation-banner {
     clear: both;
@@ -383,7 +386,7 @@ video {
     color: inherit;
 }
 .footer .siteinfo a:hover {
-    color: #eeb958;
+    color: #ffc760;
     text-decoration: underline;
 }
 .siteinfo-banner {

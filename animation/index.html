@@ -3,11 +3,12 @@
 <head>
 <title>Animation - Jesse Manschot</title>
 <meta charset="utf-8" />
-<meta name="description" content="Startervilla Threshold The Grapes of Life The Bottom A Midsummer&#039;s Dream Stuck in Eternity Brain Twist Morning Sortie Sapling&#039;s Fall Blizzard…" />
+<meta name="description" content="Animation" />
 <meta name="author" content="Jesse Manschot" />
 <meta name="generator" content="Datenstrom Yellow" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <script  type="text/javascript"  src="/media/resources/jquery-2.2.4.min.js"></script>
+<script  type="text/javascript" src="/media/resources/jquery.nanogallery2.min.js"></script>
 <script data-goatcounter="https://bronzereason.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 <link    href="/media/themes/nanogallery2.css" rel="stylesheet" type="text/css">
@@ -20,7 +21,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Animation" />
 <meta property="og:site_name" content="Jesse Manschot" />
-<meta property="og:description" content="Startervilla Threshold The Grapes of Life The Bottom A Midsummer&#039;s Dream Stuck in Eternity Brain Twist Morning Sortie Sapling&#039;s Fall Blizzard…" />
+<meta property="og:description" content="Animation" />
 <meta property="og:image" content="https://www.jessemanschot.nl/media/themes/stockholm.png" />
 <meta property="og:image:alt" content="Animation" />
 <link rel="stylesheet" type="text/css" media="all" href="/media/extensions/slider.css" />
@@ -34,56 +35,64 @@
 <div class="header" role="banner">
 <div class="sitename">
 <h1><a href="/"><i class="sitename-logo"></i>Jesse Manschot</a></h1>
-<p>Animation &amp; Illustration</p>
+<p>Animator, Illustrator, Editor</p>
 </div>
 <div class="sitename-banner"></div>
 <div class="navigation" role="navigation">
 <ul>
-<li><a href="/">Home</a></li>
 <li><a class="active" aria-current="page" href="/animation/">Animation</a></li>
 <li><a href="/illustration/">Illustration</a></li>
 <li><a href="/sketch/">Sketch</a></li>
 <li><a href="/shop/">Shop</a></li>
-<li><a href="/blog/">Blog</a></li>
-<li><a href="/about/">Bio</a></li>
+<li><a href="/blog/">News</a></li>
+<li><a href="/info/">Info</a></li>
 </ul>
 </div>
 <div class="navigation-banner"></div>
 </div>
-<div class="content">
 <div class="main" role="main">
-<div id="ngy2p" data-nanogallery2="'{" label="label">
-    <!-- ### gallery content ### -->
-  <a href="https://vimeo.com/797375053" data-ngthumb="/media/images/portfolio_an/jesse-manschot_startervilla_thumb-web.jpg">Startervilla</a>
-  <a href="/media/videos/jesse-manschot_threshold_1080p_h264_aac_1500kbps.mp4" data-ngthumb="/media/images/portfolio_an/jesse-manschot_threshold_thumb-web.jpg" alt="Threshold">Threshold</a>
-  <a href="/media/videos/jesse-manschot_the-grapes-of-life_1080p_h264_aac_500kbps.mp4" data-ngthumb="/media/images/portfolio_an/jesse-manschot_grapes_thumb-web.jpg" alt="The Grapes of Life">The Grapes of Life</a>
-  <a href="/media/videos/jesse-manschot_bottom_1080p_h264_aac_500kbps.mp4" data-ngthumb="/media/images/portfolio_an/jesse-manschot_bottom_thumb-web.jpg" alt="The Bottom">The Bottom</a>
-  <a href="/media/videos/jesse-manschot_midsummers-dream_1080p_h264_aac_500kbps.mp4" data-ngthumb="/media/images/portfolio_an/jesse-manschot_midsummer_thumb-web.jpg" alt="A Midsummer's Dream">A Midsummer's Dream</a>
-  <a href="/media/videos/jesse-manschot_stuck-in-eternity_h264_aac_500kbps.mp4" data-ngthumb="/media/images/portfolio_an/jesse-manschot_eternity_thumb-web.jpg" alt="Stuck in Eternity">Stuck in Eternity</a>
-  <a href="/media/videos/jesse-manschot_brain-twist_1080p_h264_aac_2000kbps.mp4" data-ngthumb="/media/images/portfolio_an/jesse-manschot_braintwist_thumb-web.jpg" alt="Brain Twist">Brain Twist</a>
-  <a href="https://vimeo.com/666462733" data-ngthumb="/media/images/portfolio_an/jesse-manschot_morningsortie_thumb-web.jpg">Morning Sortie</a>
-  <a href="https://vimeo.com/653052939" data-ngthumb="/media/images/portfolio_an/jesse-manschot_sapling_thumb-web.jpg">Sapling's Fall</a>
-  <a href="https://vimeo.com/641282371" data-ngthumb="/media/images/portfolio_an/jesse-manschot_blizzard-children_thumb-web.jpg">Blizzard Children</a>
-  <a href="https://vimeo.com/608185266" data-ngthumb="/media/images/portfolio_an/jesse-manschot_restinginthemud_thumb-web.jpg">Resting in the Mud</a>
-  <a href="https://vimeo.com/596145705" data-ngthumb="/media/images/portfolio_an/jesse-manschot_iceskating_thumb-web.jpg">The Zen of Ice Skating</a>
+
+<div id="ngy2p"
+    // gallery configuration
+    data-nanogallery2 = '{
+      "thumbnailWidth": "auto",
+      "thumbnailHeight": "200",
+      "thumbnailBorderVertical": 0,
+      "thumbnailBorderHorizontal": 0,
+      "thumbnailHoverEffect2": "image_scale_1.00_1.05",
+      "thumbnailAlignment": "center",
+      "imageTransition": "swipe",
+      "viewerToolbar":    {
+             "standard":  "minimizeButton, label, shareButton, fullscreenButton",
+             "minimized": "minimizeButton, label, fullscreenButton, downloadButton, infoButton" },
+      "viewerTools":      {
+             "topLeft":   "label",
+             "topRight":  "fullscreenButton, closeButton" },
+      "viewerGallery": "none"   
+    }'
+  >
+  <a href="https://vimeo.com/797375053"  data-ngthumb="/media/images/portfolio_an/jesse-manschot_startervilla_thumb-web.jpg" data-ngdesc="9 Feb 2023 | Client work | Combining stop-motion and 2D animation to demonstrate various housing configurations. LEGO models created by LMmodels">Startervilla</a>
+  <a href="https://vimeo.com/784219055" data-ngdest="/blog/threshold/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_threshold_thumb-web.jpg" data-ngdesc="25 Dec, 2022" alt="Threshold">Threshold</a>
+  <a href="https://vimeo.com/754370418" data-ngdest="/blog/the-grapes-of-life/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_grapes_thumb-web.jpg" data-ngdesc="27 Sep 2022" alt="The Grapes of Life">The Grapes of Life</a>
+  <a href="https://vimeo.com/736290742" data-ngdest="/blog/the-bottom/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_bottom_thumb-web.jpg" data-ngdesc="3 Aug 2022" alt="The Bottom">The Bottom</a>
+  <a href="https://vimeo.com/716836028" data-ngdest="/blog/a-midsummers-dream/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_midsummer_thumb-web.jpg" data-ngdesc="3 Jun 2022" alt="A Midsummer's Dream">A Midsummer's Dream</a>
+  <a href="https://vimeo.com/700171498" data-ngdest="/blog/stuck-in-eternity/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_eternity_thumb-web.jpg" data-ngdesc="17 Apr 2022" alt="Stuck in Eternity">Stuck in Eternity</a>
+  <a href="https://vimeo.com/688074407" data-ngdest="/blog/brain-twist/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_braintwist_thumb-web.jpg" data-ngdesc="14 Mar 2022" alt="Brain Twist">Brain Twist</a>
+  <a href="https://vimeo.com/666462733" data-ngdest="/blog/morning-sortie/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_morningsortie_thumb-web.jpg" data-ngdesc="16 Jan 2022" >Morning Sortie</a>
+  <a href="https://vimeo.com/653052939" data-ngdest="/blog/saplings-fall/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_sapling_thumb-web.jpg" data-ngdesc="3 Dec 2021" >Sapling's Fall</a>
+  <a href="https://vimeo.com/641282371" data-ngdest="/blog/blizzard-children/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_blizzard-children_thumb-web.jpg" data-ngdesc="1 Nov 2021" >Blizzard Children</a>
+  <a href="https://vimeo.com/608185266" data-ngdest="/blog/resting-in-the-mud/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_restinginthemud_thumb-web.jpg" data-ngdesc="18 Sep 2021" >Resting in the Mud</a>
+  <a href="https://vimeo.com/596145705" data-ngdest="/blog/the-zen-of-ice-skating/" data-ngthumb="/media/images/portfolio_an/jesse-manschot_iceskating_thumb-web.jpg" data-ngdesc="1 Sep 2021" >The Zen of Ice Skating</a>
 </div>
 </div>
 </div>
-<script  type="text/javascript" src="/media/resources/jquery.nanogallery2.min.js"></script>
 <div class="footer" role="contentinfo">
 	<div>
-	<a rel="nonAI" href="https://notbyai.fyi/" target="_blank">
-		<img alt="Not by AI" style="height:2.5rem" src="/media/images/footer/Produced-By-Human-Not-By-AI-Badge-white@2x.png" />
 	</a>
 	</div>
-	<div>
-	</a>
-	</div>
-	© 2021 - 2024 • <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>
-	<div class="siteinfo">
+	© 2021 - 2024	<div class="siteinfo">
 			</div>
-	<div class="siteinfo-banner">Built with <a href="https://datenstrom.se/yellow/" target="_blank">Datenstrom Yellow</a> • Hosted on <a href="https://github.com/bronzereason/bronzereason.github.io" target="_blank">Github</a>
-	</div>
+	<div class="siteinfo-banner">Built with <a href="https://datenstrom.se/yellow/" target="_blank">Datenstrom Yellow</a></div>
 	<br>
 </div>
 </body>
