@@ -116,8 +116,15 @@
 .nGY2Icon-cw:before { content: '\e809'; } /* '?' */
 .nGY2Icon-ccw:before { content: '\e80c'; } /* '?' */
 
+.nGY2Icon-ok, 
+.nGY2Icon-circle-empty {
+  color: #000 !important;
+  opacity: .6 !important;
+}
 
-
+.nGY2Icon-ok {
+  color: red !important;
+}
 
 [class^="nGY2Icon-"] {
   margin-left: .2em;
@@ -144,6 +151,9 @@
 /**************************************/
 
 .nGY2Navigationbar {
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 1rem;
 	margin: 5px 0px;
 	padding: 5px 0px;
   display: none;
@@ -154,6 +164,8 @@
 }
 
 .nGY2Navigationbar .nGY2NavigationbarItem {
+  background: rgba(0,0,0,0.0) !important;
+  border-radius: 0px !important;
 	margin: 5px 2px;
   padding: 8px 10px;
 	white-space: nowrap;
@@ -166,6 +178,10 @@
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
+}
+
+.nGY2NavFilterSelected {
+  color: red !important;
 }
 
 /**************************************/
@@ -224,7 +240,7 @@
 	border: 0px solid #000;
 	/*margin: 1px;*/
 	padding: 0px; /* 5 */
-	background-color: #000;
+	background: none;
 	display: inline-block;
 	position: absolute;   /*relative;*/
 	box-sizing: border-box;
@@ -232,12 +248,11 @@
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
 	overflow:hidden;
-  border-color: #fff !important;
 }
 
 .nGY2 .nGY2GThumbnailStack {
 	/* no margin allowed here */
-  background-color: #888;
+  background-color: none;
   cursor: pointer;
 	border: 0px solid #000;
 	/*margin: 1px;*/
@@ -1064,7 +1079,7 @@
 	margin: 1px;
 }
 .nGY2 .toolbarBackground {
-	background:rgba(4,4,4,0.7);
+	background:rgba(4,4,4,1) !important;
 }
 
 .nGY2 .nGY2ViewerToolsTopLeft {
@@ -1116,25 +1131,26 @@
 
 .nGY2 .toolbar .pageCounter{
 	display: table-cell;
-	font-size:1.2em;
+	font-size:1rem;
 	margin:auto;
 	vertical-align:middle;
 	overflow: hidden;
 }
 
 .nGY2 .toolbar .label{
-  padding:3px 10px 3px 10px;
+  font-family: Helvetica, "Noto sans", sans-serif;
+  padding:3px 10px 10px 10px;
 	border-left: 0px solid #000;
 	overflow: hidden;
 	display: table-cell;
-	text-align: left;
+	text-align: middle;
 	vertical-align:middle;
-	font-size:1em;
-  background-color:initial;
+	font-size:1.2rem;
+  background-color:rgba(0,0,0,0.0);
 }
 
 .nGY2 .toolbar .label .title{
-	font-size:1.2em;
+	font-size:1.2rem;
 	margin:auto;
 	vertical-align:middle;
 	overflow: hidden;
@@ -1144,7 +1160,7 @@
 	display:table-row;
 	vertical-align:middle;
 	overflow: hidden;
-	color:#eee;
+	color:#ebebeb !important;
 }
 
 .nGY2 .nGY2viewerGallery {

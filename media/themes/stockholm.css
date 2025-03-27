@@ -53,6 +53,7 @@ h6 {
 h1 {
     font-size: 2.8em;
     font-weight: 400;
+    text-transform: uppercase;
 }
 h2 {
     margin-bottom: 5px;
@@ -73,7 +74,7 @@ code {
 a:link, a:visited { color: inherit; }
 
 a:hover {
-    color: #ffc760;
+    color: #000;
 }
 
 .blog-top {
@@ -129,7 +130,7 @@ video {
     background-position: 0% 93%, 100% 93%, 0% 80%;
 }
 .content h1 a:hover {
-    color: #ffc760;
+    color: #000;
     text-decoration: none;
 }
 .content a:link::selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
@@ -319,7 +320,7 @@ video {
     padding: 1em 0;
 }
 .header .sitename h1 a:hover {
-    color: #ffc760;
+    color: #000;
 }
 .header .sitename p {
     margin-top: 5px;
@@ -344,8 +345,8 @@ video {
     margin: 0 0.5em;
 }
 .navigation a:hover {
-    color: #ffc760;
-    border-bottom: solid 2px #ffc760;
+    color: #000;
+    border-bottom: solid 2px #000;
 }
 .navigation ul {
     margin: 0 -0.5em;
@@ -356,7 +357,7 @@ video {
     display: inline;
 }
 .navigation li a.active {
-    border-bottom: solid 2px #ffc760;
+    border-bottom: solid 2px #000;
 }
 .navigation-banner {
     clear: both;
@@ -384,7 +385,7 @@ video {
     color: inherit;
 }
 .footer .siteinfo a:hover {
-    color: #ffc760;
+    color: #000;
     text-decoration: underline;
 }
 .siteinfo-banner {
