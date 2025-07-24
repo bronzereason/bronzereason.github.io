@@ -72,10 +72,16 @@ h2 {
     color: var(--heading-light);
     line-height: 1em;
     font-weight: 600 !important;
+    margin-bottom: 10px;
 }
 h3 {
     font-size: 1.5em;
     color: var(--heading-light);
+}
+h5 {
+	line-height: 0.5em;
+	margin-top: 0px;
+	margin-bottom: 5px;
 }
 h6 {
     font-size: 1em;
