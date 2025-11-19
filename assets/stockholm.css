@@ -692,10 +692,11 @@ iframe {
     }
 }
 
-@media screen and (max-width: 850px) and (min-width: 650px) {
+@media screen and (min-width: 650px) {
 	.about {
-	  grid-template-columns: 200px 1fr; /* left column fixed, right column flexible */
-	  }}
+	  grid-template-columns: 210px 1fr; /* left column fixed, right column flexible */
+	  }
+}
 
 @media screen and (max-width: 650px) {
 	    .mix,
@@ -712,7 +713,5 @@ iframe {
 	.control {
 	padding: 0.5em;
 	font-size: 1.2rem;
-	}
-	.about {
 	}
 }
