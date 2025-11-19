@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="nl" prefix="og: http://ogp.me/ns#">
+<html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
-<title>File not found - Jesse Manschot | Illustratie &amp; Film</title>
+<title>Nieuws - Jesse Manschot | Illustratie &amp; Film</title>
 <meta charset="utf-8" />
-<meta name="description" content="The requested file was not found. Oh no..." />
+<meta name="description" content="Blijf op de hoogte" />
 <meta name="author" content="Jesse Manschot" />
 <meta name="generator" content="Datenstrom Yellow" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -14,6 +14,14 @@
 <link rel="stylesheet" type="text/css" media="all" href="/assets/gallery.css" />
 <script type="text/javascript" defer="defer" src="/assets/gallery-photoswipe.min.js"></script>
 <script type="text/javascript" defer="defer" src="/assets/gallery.js"></script>
+<meta property="og:url" content="https://www.jessemanschot.nl/nieuws/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Nieuws" />
+<meta property="og:site_name" content="Jesse Manschot | Illustratie &amp; Film" />
+<meta property="og:description" content="Blijf op de hoogte" />
+<meta property="og:image" content="https://www.jessemanschot.nl/assets/stockholm.png" />
+<meta property="og:image:alt" content="Nieuws" />
 <link rel="sitemap" type="text/xml" href="/sitemap/page:sitemap.xml" />
 <link rel="stylesheet" type="text/css" media="all" href="/assets/slider.css" />
 <script type="text/javascript" defer="defer" src="/assets/slider-splide.min.js"></script>
@@ -22,7 +30,7 @@
 <link rel="icon" type="image/png" href="/assets/stockholm.png" />
 </head>
 <body>
-<div class="page layout-error">
+<div class="page layout-news">
 <div class="header" role="banner">
 <div class="header-content">
 <div class="sitename">
@@ -33,7 +41,7 @@
 <ul>
 <li><a href="/">Home</a></li>
 <li><a href="/portfolio/">Portfolio</a></li>
-<li><a href="/nieuws/">Nieuws</a></li>
+<li><a class="active" aria-current="page" href="/nieuws/">Nieuws</a></li>
 <li><a href="/over-mij/">Over mij</a></li>
 <li><a href="/contact/">Contact</a></li>
 </ul>
@@ -41,10 +49,25 @@
 <div class="navigation-banner"></div>
 </div>
 </div>
+<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 <div class="content">
 <div class="main" role="main">
-<h1>File not found</h1>
-<p>The requested file was not found. Oh no...</p>
+  <bsky-embed
+    username="jessemanschot.nl"
+    feed="at://...(decide between username, feed, or search)"
+    mode="light"
+    limit="5"
+    link-target="_blank"
+    link-image="true"
+    load-more="true"
+    disable-styles="false"
+    custom-styles=".border-slate-300 { border-color: grey; }"
+    date-format='{"type":"absolute","locale":"en-NL","options":{"weekday":"long","year":"numeric","month":"long","day":"numeric"}}'
+    disable-images="false"
+    disable-videos="false"
+    disable-autoplay="true"
+  >
+  </bsky-embed>
 </div>
 </div>
 <div id="wrap-footer">
