@@ -1,7 +1,5 @@
 User-agent: *
-Disallow: /harming/humans
-Disallow: /harming/machines
-Disallow: /risking/your/own/existence
+Allow: /
 Disallow: /edit/
 
-Sitemap: https://jessemanschot.nl/sitemap/page:sitemap.xml
+Sitemap: https://www.jessemanschot.nl/sitemap/page:sitemap.xml
