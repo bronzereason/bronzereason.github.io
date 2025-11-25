@@ -94,6 +94,10 @@ iframe {
     width: 100% !important;
 }
 
+video {
+	width: 100%;
+}
+
 /* Content */
 
 .content {
