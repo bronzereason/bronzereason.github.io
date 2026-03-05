@@ -6,16 +6,16 @@
     --bg: #202020;
     --code-bg: #f7f7f7;
     --important-bg: #f0f8fe;
-    --heading: #f8f3e5;
-    --text: #b9b8b5;
+    --heading: #191919;
+    --text: #080808;
     --code: #666;
-    --link: #f8f3e5;
+    --link: #112537;
     --link-active: #fff;
     --blockquote-accent: #29f;
     --important-accent: #08e;
     --separator: #ddd;
     --border: #bbb;
-    --font: "Open Sans", Helvetica, sans-serif;
+    --font: "Space Grotesk", Helvetica, sans-serif;
     --monospace-font: Consolas, Menlo, Courier, monospace;
 }
 @font-face {
@@ -38,6 +38,34 @@
     font-weight: 700;
     font-display: swap;
     src: url(stockholm-opensans-bold.woff) format("woff");
+}
+@font-face {
+	font-family: "Space Grotesk";
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(SpaceGrotesk-Light.woff2) format("woff2");
+}
+@font-face {
+	font-family: "Space Grotesk";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(SpaceGrotesk-Regular.woff2) format("woff2");
+}
+@font-face {
+	font-family: "Space Grotesk";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(SpaceGrotesk-Medium.woff2) format("woff2");
+}
+@font-face {
+	font-family: "Space Grotesk";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(SpaceGrotesk-Bold.woff2) format("woff2");
 }
 
 /* General */
@@ -64,10 +92,10 @@ body p {
 
 h1, h2, h3, h4, h5, h6 {
     color: var(--heading);
-    font-weight: 400;
+    font-weight: 500;
 }
 h1 {
-    font-size: 2em;
+    font-size: 3em;
 }
 hr {
     height: 1px;
@@ -101,7 +129,7 @@ video {
 /* Content */
 
 .content {
-	margin-top: 1em;	
+	margin-top: 2em;	
 	display: flex;
 	min-height: 80vh;
 	flex-direction: column;
@@ -301,19 +329,21 @@ video {
 }
 .home-gallery h4 {
 	margin-top: 0.8em;
+	font-size: 1.2em;
 	}
 .home-gallery h5 {
-	border-bottom: 1px solid #3b3b3b;
+	border-bottom: 0px solid #3b3b3b;
 	padding: 0px 0 16px;
 	margin-bottom: 8px;
 	line-height: 1.2em;
+	font-weight: 300;
 	}
 /* Header */
 
 .header {
     margin: 0em 0;
     padding: 1em 0;
-    background-color: #000000;
+    background-color: rgba(0,0,0,1);
     width: 100vw;
   	position: relative;
   	left: calc(-50vw + 50%);
@@ -330,8 +360,8 @@ video {
 }
 .header .sitename h1 {
     margin: 0;
-    font-size: 1em;
-    font-weight: 400;
+    font-size: 1.5em;
+    font-weight: 500;
 }
 .header .sitename h1 a {
     color: #fff;
@@ -357,7 +387,7 @@ video {
 	display: block;
 	float: right;
 	cursor: pointer;
-	margin-top: 5px;
+	margin-top: 12px;
 }
 
 .hamburger-bar {
@@ -378,7 +408,7 @@ video {
 .navigation {
     display: block;
     position: absolute;
-    background: #000;
+    background: rgba(0,0,0,1);
     top: 56px;
     left: -9999px;
     opacity: 0;
@@ -386,6 +416,9 @@ video {
     border-bottom: 1px solid #3b3b3b;
     transition: left 0s 0.2s, opacity 0.2s;
     z-index: 9999;
+    font-size: 1.2em;
+    font-weight: 500;
+    padding-top: 5px;
 }
 
 #toggle-menu:checked ~ .navigation {
@@ -415,7 +448,7 @@ video {
 }
 .navigation li a.active {
     color: #fff;
-    font-weight: 400;
+    font-weight: 500;
 }
 .navigation-banner {
     clear: both;
@@ -451,7 +484,7 @@ video {
     width: 100vw;
     left: calc(-50vw + 50%);
     clear: both;
-    background-color: #272727;
+    background-color: rgba(0,0,0,0);
 }
 
 .footer {
@@ -631,7 +664,7 @@ video {
     margin-bottom: 0;
     background: rgba(0,0,0,0);
     cursor: pointer;
-    color: #afaeab;
+    color: #080808;
     border-radius: 10px;
     border: none;
     font-size: 1.1em;
@@ -639,12 +672,12 @@ video {
 }
 
 .control:hover {
-    color: white;
+    color: #9D9B98;
 }
 
 .mixitup-control-active {
-    font-weight: 400;
-    color: white;
+    font-weight: 500;
+    color: black;
 }
 
 .mixitup-control-active[data-filter]:after {
@@ -738,7 +771,7 @@ video {
 	padding-top: 5px;
 	padding-bottom: 10px;
 	font-size: 1rem;
-	border-bottom: 1px solid #3b3b3b;
+	border-bottom: 0px solid #3b3b3b;
 }
 .mix-title p {
     margin: 0;

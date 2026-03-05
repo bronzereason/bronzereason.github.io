@@ -17,7 +17,7 @@
     height: 10px;
     border: none;
     border-radius: 50%;
-    background: #fff;
+    background: #000;
     transition:transform .2s linear;
     opacity: 0.25;
     cursor: pointer;
