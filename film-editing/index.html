@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Editing — Jesse Manschot</title><meta name="description" content="Film editing and other work for a wide variety of short films." />
+	<meta name="author" content="Jesse Manschot" />
+	<meta name="generator" content="Hugo" />
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1" />
+	<link rel="canonical" href="https://jessemanschot.nl/" />
+    
+    <meta name="og:title" content="Jesse Manschot" />
+  	<meta property="og:description" content="Film editing and other work for a wide variety of short films." />
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+    
+    
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+	
+	<script data-goatcounter="https://bronzereason.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+
+    
+    <div class="mobile-topbar">
+        <h1 class="mobile-site-title"><a href="/">Jesse Manschot</a></h1>
+        <button class="menu-toggle" aria-label="Toggle navigation" id="menuToggle">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+    </div>
+
+    
+    <header class="site-sidebar" id="siteSidebar">
+        <div>
+            <h1 class="site-title desktop-only"><a href="/">Jesse Manschot</a></h1>
+            <p class="site-bio">Illustrator / Animator / Film Editor</p>
+            
+            <nav class="sidebar-nav">
+                <ul>
+                    
+                    <li><a href="/" >Illustration</a></li>
+                    
+                    <li><a href="/film-editing/" class="active">Film Editing</a></li>
+                    
+                    <li><a href="/life-drawing/" >Life Drawing</a></li>
+                    
+                    <li><a href="/sketchbook/" >Sketchbook</a></li>
+                    
+                    <li><a href="/info/" >Info</a></li>
+                    
+                </ul>
+            </nav>
+       
+        <footer class="site-footer">
+            <p>&copy; 2026 </p>
+        </footer>
+    </header>
+
+    
+    <main class="site-content">
+        
+<div class="masonry-grid">
+    <div class="grid-sizer"></div>
+
+
+<div class="masonry-item">
+    
+        <a href="/projects/internettrollen/">
+            <img src="/images/jesse-manschot_internettrollen_thumb-web.webp" alt="Internettrollen" loading="lazy">
+         </a>
+    
+</div>
+
+<div class="masonry-item">
+    
+        <a href="/projects/mijn-harige-schaduw-en-ik/">
+            <img src="/images/jesse-manschot_mhs_thumb-web.webp" alt="Mijn Harige Schaduw &amp; Ik" loading="lazy">
+         </a>
+    
+</div>
+
+<div class="masonry-item">
+    
+        <a href="/projects/panopticum/">
+            <img src="/images/jesse-manschot_panopticum_thumb-web.webp" alt="Panopticum" loading="lazy">
+         </a>
+    
+</div>
+
+<div class="masonry-item">
+    
+        <a href="/projects/medi/">
+            <img src="/images/jesse-manschot_medi_thumb-web.webp" alt="Medi" loading="lazy">
+         </a>
+    
+</div>
+
+<div class="masonry-item">
+    
+        <a href="/projects/unfold/">
+            <img src="/images/jesse-manschot_unfold_thumb-web.jpg" alt="Unfold" loading="lazy">
+         </a>
+    
+</div>
+
+</div>
+
+    </main>
+	
+	
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	
+	
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+    
+	
+    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+    <script>
+        const lightbox = GLightbox({
+            selector: '.glightbox',
+            touchNavigation: true,
+            loop: true,
+            closeButton: true
+        });
+
+        
+        var grid = document.querySelector('.masonry-grid');
+        if (grid) {
+            imagesLoaded(grid, function() {
+                new Masonry(grid, {
+                    itemSelector: '.masonry-item',
+                    columnWidth: '.masonry-item',
+                    percentPosition: true,
+                    gutter: 20 
+                });
+            });
+        }
+
+        
+        const menuToggle = document.getElementById('menuToggle');
+        const siteSidebar = document.getElementById('siteSidebar');
+
+        menuToggle.addEventListener('click', () => {
+            siteSidebar.classList.toggle('is-open');
+            menuToggle.classList.toggle('is-active');
+        });
+
+        document.querySelectorAll('.sidebar-nav a').forEach(link => {
+            link.addEventListener('click', () => {
+                siteSidebar.classList.remove('is-open');
+                menuToggle.classList.remove('is-active');
+            });
+        });
+    </script>
+</body>
+</html>

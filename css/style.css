@@ -1,0 +1,505 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #111111;
+    --muted-color: #666666;
+    --border-color: #eaeaea;
+    --sidebar-width: 300px;
+}
+
+/* --- Custom Font Declaration --- */
+@font-face {
+    font-family: 'Paterson';
+    src: url('../fonts/paterson.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Neue Haas Grotesk';
+    src: url('../fonts/NHaasGroteskTXPro-65Md.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/inter-latin-ext-standard-normal.woff2') format('woff2');
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    display: flex;
+    min-height: 100vh;
+}
+
+p {
+	margin-top: 0;
+	line-height: 1.5rem;
+}
+
+h4 {
+	margin-bottom: 0.2rem;
+	font-weight: 500;
+}
+
+h5 {
+	margin-top: 0.5rem;
+	margin-bottom: 0rem;
+	font-weight: normal;
+	font-size: 0.8rem;
+}
+
+p img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5rem auto;
+    border-radius: 4px;
+}
+
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+}
+
+video {
+	width: 100%;
+}
+
+/* --- Markdown Image Carousel Styles --- */
+.custom-carousel {
+    width: 100%;
+    margin: 0 0;
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+}
+
+.custom-carousel .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+
+.custom-carousel .swiper-slide img {
+    width: 100%;
+    height: auto;
+    max-height: 550px;
+    object-fit: cover;
+    display: block;
+}
+
+/* --- Match Carousel Arrows to GLightbox Style --- */
+.custom-carousel .swiper-button-next,
+.custom-carousel .swiper-button-prev {
+    color: #ffffff; /* Crisp white arrow icon */
+    background: rgba(0, 0, 0, 0.5); /* Dark semi-transparent circular backdrop */
+    width: 44px;
+    height: 44px;
+    border-radius: 5%;
+    backdrop-filter: blur(4px);
+    transition: background 0.2s ease, transform 0.2s ease;
+}
+
+/* Make the internal arrow icons slightly smaller and cleaner */
+.custom-carousel .swiper-button-next:after,
+.custom-carousel .swiper-button-prev:after {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* Hover effect matching lightbox feedback */
+.custom-carousel .swiper-button-next:hover,
+.custom-carousel .swiper-button-prev:hover {
+    background: rgba(0, 0, 0, 0.8);
+    transform: scale(1.08);
+}
+
+/* Customize Pagination Dots */
+.custom-carousel .swiper-pagination-bullet-active {
+    background: #f7f7f7;
+}
+
+/* --- Thumbnail Image Gallery Grid --- */
+.custom-image-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 12px;
+    margin: 2rem 0;
+}
+
+.custom-image-gallery .gallery-item {
+    aspect-ratio: 1 / 1; /* Forces uniform square thumbnails */
+    overflow: hidden;
+    border-radius: 4px;
+    background: #f0f0f0;
+}
+
+.custom-image-gallery .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Crops images cleanly into squares without warping */
+    display: block;
+    transition: transform 0.3s ease, opacity 0.2s ease;
+}
+
+.custom-image-gallery .gallery-item img:hover {
+    transform: scale(1.04);
+    opacity: 0.9;
+}
+
+/* Left Sidebar / Index */
+.site-sidebar {
+    width: var(--sidebar-width);
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    padding: 3rem 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 1px solid var(--border-color);
+    overflow-y: auto;
+    /* background-image: linear-gradient(90deg,#fffffff7,#fffffff7),url(/images/noise.png);
+    background-repeat: repeat; */
+}
+
+/* Apply Custom Font to Site Titles */
+.site-title a, 
+.mobile-site-title a {
+    font-family: 'Neue Haas Grotesk', -apple-system, sans-serif;
+    font-size: 1.6rem; 
+    font-weight: bold; 
+    letter-spacing: 0.02em;
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+h1.site-title {
+	margin-bottom: 0;
+}
+.site-bio {
+	margin: 0;
+	padding-left: 10px;
+	font-family: 'Arial', -apple-system, sans-serif;
+	font-weight: 100;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: var(--muted-color);
+}
+
+.sidebar-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0 0 0;
+}
+
+.sidebar-nav li {
+    margin-bottom: 0.75rem;
+}
+
+.sidebar-nav a {
+    text-decoration: none;
+    color: var(--muted-color);
+    font-size: 1.5rem;
+    transition: color 0.2s ease;
+    font-family: 'Neue Haas Grotesk', -apple-system, sans-serif;
+}
+
+.sidebar-nav a:hover, .sidebar-nav a.active {
+    color: var(--text-color);
+}
+
+.site-footer {
+    font-size: 0.8rem;
+    color: var(--muted-color);
+    margin-top: 2rem;
+}
+
+/* --- Sidebar Social Icons --- */
+.sidebar-social {
+    display: flex;
+    gap: 1.25rem;
+    margin-top: 2rem;
+}
+
+.sidebar-social a {
+    color: var(--muted-color);
+    display: flex;
+    align-items: center;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.sidebar-social a:hover {
+    color: var(--text-color);
+    transform: translateY(-2px);
+}
+
+/* Right Canvas / Masonry Gallery */
+.site-content {
+    flex: 1;
+    padding: 3rem;
+    overflow-y: auto;
+}
+
+/* --- Masonry Grid Layout (Row-by-Row) --- */
+.masonry-grid {
+    display: block; /* Masonry.js handles positioning */
+}
+
+.masonry-item {
+    width: 32%; /* Roughly 3 columns accounting for gaps */
+    margin-bottom: 1.5rem;
+    float: left; /* Temporary fallback float before JS loads */
+}
+
+.masonry-item img:hover {
+    opacity: 0.9;
+}
+
+/* --- Masonry Hover Title Overlay --- */
+.masonry-item {
+    position: relative; /* Establishes positioning context for the caption overlay */
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.masonry-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease, opacity 0.2s ease;
+}
+
+/* --- Hide Captions / Titles in GLightbox Popups --- */
+.gslide-description {
+    display: none !important;
+}
+
+/* Trigger reveal on hover */
+.masonry-item:hover img {
+    opacity: 0.85;
+    transform: scale(1.02); /* Subtle zoom effect */
+}
+
+/* Responsive column width overrides for Masonry.js */
+@media (max-width: 1400px) {
+    .masonry-item {
+        width: 48%; /* 2 columns on tablets/large phones */
+    }
+}
+
+@media (max-width: 600px) {
+    .masonry-item {
+        width: 100%; /* 1 column on small smartphones */
+    }
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 1100px) {
+    .masonry-grid {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 900px) {
+    body {
+        flex-direction: column;
+    }
+    .site-sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+        padding: 2rem 1.5rem;
+    }
+    .site-content {
+        padding: 1.5rem;
+    }
+    .masonry-grid {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 900px) {
+    /* --- Mobile Typography Scaling --- */
+    
+    /* Make the mobile top bar title slightly larger */
+    .mobile-site-title a {
+        font-size: 1.15rem;
+    }
+
+    /* Increase font size inside the sliding navigation menu */
+    .site-bio {
+        font-size: 1.1rem;
+        line-height: 1.6;
+    }
+
+    .sidebar-nav a {
+        font-size: 1.15rem;
+    }
+
+    .site-footer {
+        font-size: 0.95rem;
+    }
+}
+
+/* --- Mobile Hamburger Menu Styles --- */
+
+/* Hidden by default on desktop */
+.menu-toggle {
+    display: none;
+    position: fixed;
+    top: 1.25rem;
+    right: 1.25rem;
+    z-index: 100;
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 0.5rem;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.menu-toggle .bar {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background-color: var(--text-color);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* Hamburger to "X" Animation when active */
+.menu-toggle.is-active .bar:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+.menu-toggle.is-active .bar:nth-child(2) {
+    opacity: 0;
+}
+.menu-toggle.is-active .bar:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+}
+
+/* Responsive Overrides */
+@media (max-width: 900px) {
+    .menu-toggle {
+        display: flex; /* Show button on mobile/tablets */
+    }
+
+    body {
+        flex-direction: column;
+    }
+
+    .site-sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        background: var(--bg-color);
+        z-index: 90;
+        transform: translateY(-100%); /* Hide off-screen vertically */
+        transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+        padding: 5rem 2rem 2rem 2rem; /* Extra top padding so it clears the toggle button */
+        border-right: none;
+        box-sizing: border-box;
+    }
+
+    /* Slides the menu down into view when toggled */
+    .site-sidebar.is-open {
+        transform: translateY(0);
+    }
+
+    .site-content {
+        padding: 2rem 1.5rem;
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .masonry-grid {
+        column-count: 1;
+    }
+}
+
+/* --- Mobile Topbar Styles --- */
+
+/* Hidden by default on desktop */
+.mobile-topbar {
+    display: none;
+}
+
+@media (max-width: 900px) {
+    /* Show the sticky mobile top bar */
+    .mobile-topbar {
+        display: flex;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        background: var(--bg-color);
+        border-bottom: 1px solid var(--border-color);
+        padding: 0 1.5rem;
+        box-sizing: border-box;
+        align-items: center;
+        justify-content: space-between;
+        z-index: 100;
+    }
+
+    .mobile-site-title a {
+        font-size: 1.3rem;
+        font-weight: 700;
+        text-decoration: none;
+        color: var(--text-color);
+        letter-spacing: -0.01em;
+    }
+
+    /* Hide the desktop title duplicate inside the sliding sidebar */
+    .desktop-only {
+        display: none;
+    }
+
+    /* Redefine menu toggle button for the topbar context */
+    .menu-toggle {
+        display: flex;
+        position: relative;
+        top: auto;
+        right: auto;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        width: 32px;
+        height: 32px;
+        padding: 0;
+    }
+
+    /* Adjust the main content padding so it clears the 60px topbar */
+    .site-content {
+        padding: calc(60px + 2rem) 1.5rem 2rem 1.5rem;
+    }
+
+    /* Adjust sliding sidebar top position to sit neatly under the topbar */
+    .site-sidebar {
+        top: 60px;
+        height: calc(100vh - 60px);
+        padding: 2rem;
+    }
+}

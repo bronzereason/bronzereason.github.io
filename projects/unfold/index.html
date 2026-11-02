@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unfold — Jesse Manschot</title><meta name="description" content="" />
+	<meta name="author" content="Jesse Manschot" />
+	<meta name="generator" content="Hugo" />
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1" />
+	<link rel="canonical" href="https://jessemanschot.nl/" />
+    
+    <meta name="og:title" content="Jesse Manschot" />
+  	<meta property="og:description" content="" />
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+    
+    
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+	
+	<script data-goatcounter="https://bronzereason.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+
+    
+    <div class="mobile-topbar">
+        <h1 class="mobile-site-title"><a href="/">Jesse Manschot</a></h1>
+        <button class="menu-toggle" aria-label="Toggle navigation" id="menuToggle">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+    </div>
+
+    
+    <header class="site-sidebar" id="siteSidebar">
+        <div>
+            <h1 class="site-title desktop-only"><a href="/">Jesse Manschot</a></h1>
+            <p class="site-bio">Illustrator / Animator / Film Editor</p>
+            
+            <nav class="sidebar-nav">
+                <ul>
+                    
+                    <li><a href="/" >Illustration</a></li>
+                    
+                    <li><a href="/film-editing/" >Film Editing</a></li>
+                    
+                    <li><a href="/life-drawing/" >Life Drawing</a></li>
+                    
+                    <li><a href="/sketchbook/" >Sketchbook</a></li>
+                    
+                    <li><a href="/info/" >Info</a></li>
+                    
+                </ul>
+            </nav>
+       
+        <footer class="site-footer">
+            <p>&copy; 2026 </p>
+        </footer>
+    </header>
+
+    
+    <main class="site-content">
+        
+  <h1>Unfold</h1>
+
+  <iframe src="https://www.youtube-nocookie.com/embed/YYvrPGdjQFI?si=xjrXDs2vculpNIL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h5 id="directed-by-jasmijn-schrofer--dance-film--0658--2013">Directed by Jasmijn Schrofer | Dance film | 06'58&quot; | 2013</h5>
+<br>
+Shot on 16mm film </br>
+<br>
+<p>Cinedans 2014 - Official selection</p>
+<p>Watch the full film <a href="https://vimeo.com/89917438" target="_blank" rel="nofollow noopener noreferrer">here</a></p>
+<h4 id="performers"><strong>Performers</strong></h4>
+<p>Kim Loing <br>
+Helena Volkov</p>
+<h4 id="director"><strong>Director</strong></h4>
+<p>Jasmijn Schrofer</p>
+<h4 id="producer"><strong>Producer</strong></h4>
+<p>Isha van Moort</p>
+<h4 id="director-of-photography"><strong>Director of Photography</strong></h4>
+<p>Jeroen Kiers</p>
+<h4 id="editing"><strong>Editing</strong></h4>
+<p>Jesse Manschot</p>
+<h4 id="sounddesign"><strong>Sounddesign</strong></h4>
+<p>Job Michel</p>
+
+  
+
+
+    </main>
+	
+	
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	
+	
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+    
+	
+    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+    <script>
+        const lightbox = GLightbox({
+            selector: '.glightbox',
+            touchNavigation: true,
+            loop: true,
+            closeButton: true
+        });
+
+        
+        var grid = document.querySelector('.masonry-grid');
+        if (grid) {
+            imagesLoaded(grid, function() {
+                new Masonry(grid, {
+                    itemSelector: '.masonry-item',
+                    columnWidth: '.masonry-item',
+                    percentPosition: true,
+                    gutter: 20 
+                });
+            });
+        }
+
+        
+        const menuToggle = document.getElementById('menuToggle');
+        const siteSidebar = document.getElementById('siteSidebar');
+
+        menuToggle.addEventListener('click', () => {
+            siteSidebar.classList.toggle('is-open');
+            menuToggle.classList.toggle('is-active');
+        });
+
+        document.querySelectorAll('.sidebar-nav a').forEach(link => {
+            link.addEventListener('click', () => {
+                siteSidebar.classList.remove('is-open');
+                menuToggle.classList.remove('is-active');
+            });
+        });
+    </script>
+</body>
+</html>

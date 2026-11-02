@@ -1,5 +1,1 @@
 User-agent: *
-Allow: /
-Disallow: /edit/
-
-Sitemap: https://www.jessemanschot.nl/sitemap/page:sitemap.xml
